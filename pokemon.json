@@ -13,11 +13,15 @@
     "moves": [{
       "name": "Tackle",
         "attack": 35,
+        "level": "weak",
+        "gauge": 100,
         "animation":
           "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
         "type": "Normal"},{
           "name": "Vine Whip",
        "attack": 55,
+        "level": "medium",
+        "gauge": 0,
         "animation": "https://i.imgur.com/uDJiGRk.gif",
         "type": "Grass"
         }
@@ -37,16 +41,22 @@
     "moves": [{
       "name": "Tackle",
         "attack": 35,
+        "level": "weak",
+        "gauge": 100,
         "animation":
           "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
         "type": "Normal"},{
           "name": "Vine Whip",
        "attack": 55,
+        "level": "medium",
+        "gauge": 0,
         "animation": "https://i.imgur.com/uDJiGRk.gif",
         "type": "Grass"
         },{
         "name": "Razor Leaf",
       "attack": 65,
+        "level": "medium",
+        "gauge": 0,
       "animation":
         "https://thumbs.gfycat.com/PlumpKnobbyArmednylonshrimp-size_restricted.gif",
       "type": "Grass"
@@ -66,16 +76,22 @@
     "move": [{
       "name": "Tackle",
         "attack": 35,
+        "level": "weak",
+        "gauge": 100,
         "animation":
           "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
         "type": "Normal"},{
           "name": "Vine Whip",
        "attack": 55,
+        "level": "medium",
+        "gauge": 0,
         "animation": "https://i.imgur.com/uDJiGRk.gif",
         "type": "Grass"
         },{
         "name": "Razor Leaf",
       "attack": 65,
+        "level": "medium",
+        "gauge": 100,
       "animation":
         "https://thumbs.gfycat.com/PlumpKnobbyArmednylonshrimp-size_restricted.gif",
       "type": "Grass"
@@ -83,6 +99,8 @@
       {
         "name": "Solar Beam",
         "attack": 120,
+        "level": "special",
+        "gauge": 100,
         "animation": "https://media3.giphy.com/media/11XU8sAwhvwjok/source.gif",
         "type": "Grass"
       }
