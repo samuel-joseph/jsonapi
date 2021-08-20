@@ -87,15 +87,7 @@
         "gauge": 0,
         "animation": "https://i.imgur.com/uDJiGRk.gif",
         "type": "Grass"
-        },{
-        "name": "Razor Leaf",
-      "attack": 65,
-        "level": "medium",
-        "gauge": 100,
-      "animation":
-        "https://thumbs.gfycat.com/PlumpKnobbyArmednylonshrimp-size_restricted.gif",
-      "type": "Grass"
-    },
+        },
       {
         "name": "Solar Beam",
         "attack": 120,
