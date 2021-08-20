@@ -73,7 +73,7 @@
     "currentExperience": 0,
     "fullyEvolved": false,
     "type": "grass",
-    "move": [{
+    "moves": [{
       "name": "Tackle",
         "attack": 35,
         "level": "weak",
