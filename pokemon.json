@@ -1,6 +1,7 @@
 {
   "pokemon":[{
     "pokemonId": 1,
+    "level": 1,
     "name": "Bulbasaur",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
@@ -29,6 +30,7 @@
   },
   {
     "pokemonId": 2,
+    "level":15,
     "name": "Ivysaur",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/2.gif",
@@ -64,6 +66,7 @@
       ]
   },{
     "pokemonId": 3,
+    "level": 30,
     "name": "Venosaur",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/3.gif",
