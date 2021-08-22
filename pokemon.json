@@ -226,7 +226,7 @@
       ]
   },
   {
-    "pokemonId": 4,
+    "pokemonId": 5,
     "level":1,
     "name": "Charmander",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/5.gif",
@@ -234,7 +234,7 @@
     "health": 300,
     "currentHealth": 300,
     "totalExperience": 100,
-    "currentExperience": 0,
+    "currentExperience": 99,
     "fullyEvolved": false,
     "type": "Fire",
     "moves": [{
