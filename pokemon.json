@@ -30,14 +30,14 @@
   },
   {
     "pokemonId": 2,
-    "level":15,
+    "level":29,
     "name": "Ivysaur",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/2.gif",
     "health": 350,
     "currentHealth": 350,
     "totalExperience": 300,
-    "currentExperience": 0,
+    "currentExperience": 299,
     "fullyEvolved": false,
     "type": "grass",
     "moves": [{
