@@ -111,7 +111,6 @@
   }
 ],
   "starter":[{
-    
     "pokemonId": 1,
     "level": 1,
     "name": "Bulbasaur",
@@ -139,19 +138,19 @@
         "type": "Grass"
         }
       ]
-    
-  },{
-  "pokemonId": 4,
-    "level": 1,
-    "name": "Charmander",
+  },
+  {
+    "pokemonId": 4,
+    "level":29,
+    "name": "Ivysaur",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/4.gif",
-    "health": 300,
-    "currentHealth": 300,
-    "totalExperience": 100,
-    "currentExperience": 0,
+    "health": 350,
+    "currentHealth": 350,
+    "totalExperience": 300,
+    "currentExperience": 299,
     "fullyEvolved": false,
-    "type": "Fire",
+    "type": "Grass",
     "moves": [{
       "name": "Tackle",
         "attack": 35,
@@ -160,42 +159,41 @@
         "animation":
           "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
         "type": "Normal"},{
-        "name": "Ember",
-        "attack": 55,
-        "level": "medium",
-        "gauge": 0,
-        "animation": "https://i.pinimg.com/originals/29/ca/76/29ca767e0d917e541cd18eb97f4825dc.gif",
-        "type": "Fire"
-        }
-      ],
-    
-    "pokemonId": 7,
-    "level": 1,
-    "name": "Bulbasaur",
-    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif",
-    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/7.gif",
-    "health": 300,
-    "currentHealth": 300,
-    "totalExperience": 100,
-    "currentExperience": 0,
-    "fullyEvolved": false,
-    "type": "Water",
-    "moves": [{
-      "name": "Tackle",
-        "attack": 35,
-        "level": "weak",
-        "gauge": 100,
-        "animation":
-          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-        "type": "Normal"},{
-          "name": "Water Gun",
+          "name": "Vine Whip",
        "attack": 55,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
-        "type": "Water"
+        "animation": "https://i.imgur.com/uDJiGRk.gif",
+        "type": "Grass"
         }
       ]
-  
+  },{
+    "pokemonId": 7,
+    "level": 30,
+    "name": "Venosaur",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/7.gif",
+    "health": 400,
+    "currentHealth": 400,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Grass",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Vine Whip",
+       "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://i.imgur.com/uDJiGRk.gif",
+        "type": "Grass"
+        }
+   ]
   }]
 }
