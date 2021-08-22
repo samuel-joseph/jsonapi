@@ -227,7 +227,7 @@
   },
   {
     "pokemonId": 5,
-    "level":1,
+    "level":29,
     "name": "Charmander",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/5.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/5.gif",
