@@ -546,6 +546,138 @@
 ],
   
   
+    "starter":[{
+    "pokemonId": 144,
+    "level": 50,
+    "name": "Articuno",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/144.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/144.gif",
+    "health": 500,
+    "currentHealth": 500,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Ice",
+    "moves": [{
+      "name": "Wing Attack",
+        "attack": 50,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.gifer.com/Yrhh.gif",
+        "type": "Flying"},{
+          "name": "Ice Beam",
+       "attack": 90,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "type": "Ice"
+        },{
+          "name": "Blizzard",
+       "attack": 120,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "type": "Ice"
+        },{
+          "name": "Sky Attack",
+       "attack": 100,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "type": "Flying"
+        }
+      ]
+  },
+  {
+     "pokemonId": 146,
+    "level": 50,
+    "name": "Moltres",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/146.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/146.gif",
+    "health": 500,
+    "currentHealth": 500,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Fire",
+    "moves": [{
+      "name": "Wing Attack",
+        "attack": 50,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.gifer.com/Yrhh.gif",
+        "type": "Flying"},{
+          "name": "Flame Thrower",
+       "attack": 90,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://i.gifer.com/3q62.gif",
+        "type": "Fire"
+        },{
+          "name": "Fire Blast",
+       "attack": 120,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://i.ya-webdesign.com/images/transparent-explosions-animated-gif-4.gif",
+        "type": "Fire"
+        },{
+          "name": "Sky Attack",
+       "attack": 100,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "type": "Flying"
+        }
+      ]
+  },{
+    "pokemonId": 145,
+    "level": 50,
+    "name": "Zapdos",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/145.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/145.gif",
+    "health": 500,
+    "currentHealth": 500,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Electric",
+    "moves": [{
+      "name": "Wing Attack",
+        "attack": 50,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.gifer.com/Yrhh.gif",
+        "type": "Flying"},{
+          "name": "Thunder Bolt",
+       "attack": 90,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+        "type": "Electric"
+        },{
+          "name": "Thunder",
+       "attack": 120,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://i.gifer.com/4bXG.gif",
+        "type": "Electric"
+        },{
+          "name": "Sky Attack",
+       "attack": 100,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "type": "Flying"
+        }
+   ]
+  }],
+  
+  
+  
+  
   
   
   "starter":[{
