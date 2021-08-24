@@ -1,16 +1,17 @@
 {
-  "pokemon":[{
-    "pokemonId": 1,
+  "common":
+  [{
+    "pokemonId": 19,
     "level": 1,
-    "name": "Bulbasaur",
-    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
-    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
-    "health": 300,
-    "currentHealth": 300,
+    "name": "Rattata",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/19.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/19.gif",
+    "health": 275,
+    "currentHealth": 275,
     "totalExperience": 100,
     "currentExperience": 0,
     "fullyEvolved": false,
-    "type": "Grass",
+    "type": "Normal",
     "moves": [{
       "name": "Tackle",
         "attack": 35,
@@ -18,104 +19,38 @@
         "gauge": 100,
         "animation":
           "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-        "type": "Normal"},{
-          "name": "Vine Whip",
-       "attack": 55,
-        "level": "medium",
-        "gauge": 0,
-        "animation": "https://i.imgur.com/uDJiGRk.gif",
-        "type": "Grass"
-        }
+        "type": "Normal"}
       ]
   },
   {
-    "pokemonId": 2,
-    "level":29,
-    "name": "Ivysaur",
-    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif",
+    "pokemonId": 16,
+    "level":1,
+    "name": "Pidgey",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/2.gif",
-    "health": 350,
-    "currentHealth": 350,
-    "totalExperience": 300,
-    "currentExperience": 299,
-    "fullyEvolved": false,
-    "type": "Grass",
-    "moves": [{
-      "name": "Tackle",
-        "attack": 35,
-        "level": "weak",
-        "gauge": 100,
-        "animation":
-          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-        "type": "Normal"},{
-          "name": "Vine Whip",
-       "attack": 55,
-        "level": "medium",
-        "gauge": 0,
-        "animation": "https://i.imgur.com/uDJiGRk.gif",
-        "type": "Grass"
-        },{
-        "name": "Razor Leaf",
-      "attack": 65,
-        "level": "medium",
-        "gauge": 0,
-      "animation":
-        "https://thumbs.gfycat.com/PlumpKnobbyArmednylonshrimp-size_restricted.gif",
-      "type": "Grass"
-    }
-      ]
-  },{
-    "pokemonId": 3,
-    "level": 30,
-    "name": "Venosaur",
-    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif",
-    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/3.gif",
-    "health": 400,
-    "currentHealth": 400,
+    "health": 275,
+    "currentHealth": 275,
     "totalExperience": 100,
     "currentExperience": 0,
     "fullyEvolved": false,
-    "type": "Grass",
+    "type": "Flying",
     "moves": [{
-      "name": "Tackle",
+      "name": "Peck",
         "attack": 35,
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-        "type": "Normal"},{
-          "name": "Vine Whip",
-       "attack": 55,
-        "level": "medium",
-        "gauge": 0,
-        "animation": "https://i.imgur.com/uDJiGRk.gif",
-        "type": "Grass"
-        },{
-        "name": "Razor Leaf",
-      "attack": 65,
-        "level": "medium",
-        "gauge": 0,
-      "animation":
-        "https://thumbs.gfycat.com/PlumpKnobbyArmednylonshrimp-size_restricted.gif",
-      "type": "Grass"
-    },{
-        "name": "Solar Beam",
-      "attack": 120,
-        "level": "special",
-        "gauge": 0,
-      "animation":
-        "https://media3.giphy.com/media/11XU8sAwhvwjok/source.gif",
-      "type": "Grass"
-    }
-   ]
+          "https://https://i.imgur.com/C2TBZZE.gif",
+        "type": "Flying"}
+      ]
   },{
-    "pokemonId": 4,
-    "level":1,
-    "name": "Charmander",
-    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif",
-    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/4.gif",
-    "health": 300,
-    "currentHealth": 300,
+    "pokemonId": 37,
+    "level": 1,
+    "name": "Vulpix",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/37.gif",
+    "health": 315,
+    "currentHealth": 315,
     "totalExperience": 100,
     "currentExperience": 0,
     "fullyEvolved": false,
@@ -135,19 +70,47 @@
         "animation": "https://i.pinimg.com/originals/29/ca/76/29ca767e0d917e541cd18eb97f4825dc.gif",
         "type": "Fire"
         }
-      ]
+   ]
   },{
-    "pokemonId": 6,
-    "level": 30,
-    "name": "Charizard",
-    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif",
-    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/6.gif",
-    "health": 400,
-    "currentHealth": 400,
+    "pokemonId": 60,
+    "level":1,
+    "name": "Poliwag",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/60.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/60.gif",
+    "health": 275,
+    "currentHealth": 275,
     "totalExperience": 100,
     "currentExperience": 0,
     "fullyEvolved": false,
-    "type": "Fire",
+    "type": "Water",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Water Gun",
+       "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
+        "type": "Water"
+        }
+      ]
+  },{
+    "pokemonId": 43,
+    "level": 1,
+    "name": "Oddish",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/43.gif",
+    "health": 275,
+    "currentHealth": 275,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Grass",
     "moves": [{
       "name": "Tackle",
         "attack": 35,
@@ -162,26 +125,14 @@
         "gauge": 0,
         "animation": "https://i.imgur.com/uDJiGRk.gif",
         "type": "Grass"
-        },{
-        "name": "Razor Leaf",
-      "attack": 65,
-        "level": "medium",
-        "gauge": 0,
-      "animation":
-        "https://thumbs.gfycat.com/PlumpKnobbyArmednylonshrimp-size_restricted.gif",
-      "type": "Grass"
-    },{
-        "name": "Solar Beam",
-      "attack": 120,
-        "level": "special",
-        "gauge": 0,
-      "animation":
-        "https://media3.giphy.com/media/11XU8sAwhvwjok/source.gif",
-      "type": "Grass"
-    }
+        }
    ]
   }
 ],
+  
+  
+  
+  
   "starter":[{
     "pokemonId": 1,
     "level": 1,
