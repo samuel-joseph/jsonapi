@@ -788,7 +788,7 @@
        "attack": 55,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://cdn.clipart.email/93f1b9a2daec43c858e53c182ea1c85a_blast-vector-gif-animation-transparent-png-clipart-free-download-_933-633.gif",
+        "animation": "https://gamepress.gg/dbzdokkanbattle/sites/dbzdokkanbattle/files/assets/character/card//1009280/card_1009280_effect.png",
         "type": "Electric"
         }
       ]
@@ -1632,7 +1632,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+          "https://gamepress.gg/dbzdokkanbattle/sites/dbzdokkanbattle/files/assets/character/card//1009280/card_1009280_effect.png",
         "type": "Normal"},{
           "name": "Ember",
        "attack": 55,
