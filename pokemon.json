@@ -130,7 +130,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://https://i.imgur.com/C2TBZZE.gif",
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
         "type": "Flying"}
       ]
   },{
@@ -662,27 +662,27 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://i.gifer.com/Yrhh.gif",
+          "https://lh3.googleusercontent.com/proxy/tSL_5SrbVTMPU_I94oZ-lKxIvhVaSHiE5RSBvic7h07nppl2d3j4_IWBgnOTf9VKfAtA3huOznfSBAm06B-Gekjiog",
         "type": "Flying"},{
           "name": "Ice Beam",
        "attack": 90,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/2/23/Ice_Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131111012&path-prefix=en",
         "type": "Ice"
         },{
           "name": "Blizzard",
        "attack": 120,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/c/c5/Ice_Crystal_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20190508174849&path-prefix=en",
         "type": "Ice"
         },{
           "name": "Sky Attack",
        "attack": 100,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
         "type": "Flying"
         }
       ]
@@ -705,7 +705,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://i.gifer.com/Yrhh.gif",
+          "https://lh3.googleusercontent.com/proxy/tSL_5SrbVTMPU_I94oZ-lKxIvhVaSHiE5RSBvic7h07nppl2d3j4_IWBgnOTf9VKfAtA3huOznfSBAm06B-Gekjiog",
         "type": "Flying"},{
           "name": "Flame Thrower",
        "attack": 90,
@@ -725,7 +725,7 @@
        "attack": 100,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
         "type": "Flying"
         }
       ]
@@ -747,7 +747,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://i.gifer.com/Yrhh.gif",
+          "https://lh3.googleusercontent.com/proxy/tSL_5SrbVTMPU_I94oZ-lKxIvhVaSHiE5RSBvic7h07nppl2d3j4_IWBgnOTf9VKfAtA3huOznfSBAm06B-Gekjiog",
         "type": "Flying"},{
           "name": "Thunder Bolt",
        "attack": 90,
@@ -767,7 +767,7 @@
        "attack": 100,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
         "type": "Flying"
         }
    ]
