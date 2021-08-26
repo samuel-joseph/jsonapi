@@ -255,7 +255,7 @@
         "level": "special",
         "gauge": 0,
         "animation":
-          "hhttps://www.herculeanpixel.com/images/news/ppb_shock.gif",
+          "https://media1.giphy.com/media/xT0GqAolKYvpEV3tq8/200w.gif?cid=82a1493bgq5drcfqdm1rpb1jcsdods7n7m6g72qp01qdpjp1&rid=200w.gif&ct=s",
         "type": "Electric"}
       ]
   },
@@ -565,7 +565,7 @@
        "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://i.gifer.com/4bXG.gif",
+        "animation": "https://media1.giphy.com/media/xT0GqAolKYvpEV3tq8/200w.gif?cid=82a1493bgq5drcfqdm1rpb1jcsdods7n7m6g72qp01qdpjp1&rid=200w.gif&ct=s",
         "type": "Electric"
         }
    ]
@@ -760,7 +760,7 @@
        "attack": 120,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://i.gifer.com/4bXG.gif",
+        "animation": "https://media1.giphy.com/media/xT0GqAolKYvpEV3tq8/200w.gif?cid=82a1493bgq5drcfqdm1rpb1jcsdods7n7m6g72qp01qdpjp1&rid=200w.gif&ct=s",
         "type": "Electric"
         },{
           "name": "Sky Attack",
@@ -804,7 +804,7 @@
        "attack": 75,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://i.gifer.com/OupZ.gif",
+        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
         "type": "Poison"
         }
       ]
@@ -836,10 +836,10 @@
         "type": "Grass"
         },{
           "name": "Toxic",
-       "attack": 75,
+       "attack": 90,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://i.gifer.com/OupZ.gif",
+        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
         "type": "Poison"
         },{
           "name": "Solar Beam",
@@ -914,7 +914,7 @@
         "attack": 90,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://static.wikia.nocookie.net/tibia/images/f/fe/Slash_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20210604132623&path-prefix=en",
+        "animation": "https://lh5.googleusercontent.com/proxy/51P5W1iVUlNPtrDHPZV-RpLoOsVocK0mkiwhbfSF2QUlyBz97JV12wubfgpA2ugaxKRQwqGLlK9GTXXf7fwxQeokkgkniwXjnx2GZ0NAwzWLqvuK5kPrVwWudw2yMH8f7m3_1tdMFdFyqXuk0ApLuDm6INh87RCsYIGJE7Liog=w1200-h630-p-k-no-nu",
         "type": "Dragon"
         },
         {
@@ -1557,7 +1557,7 @@
         "attack": 90,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://static.wikia.nocookie.net/tibia/images/f/fe/Slash_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20210604132623&path-prefix=en",
+        "animation": "https://lh5.googleusercontent.com/proxy/51P5W1iVUlNPtrDHPZV-RpLoOsVocK0mkiwhbfSF2QUlyBz97JV12wubfgpA2ugaxKRQwqGLlK9GTXXf7fwxQeokkgkniwXjnx2GZ0NAwzWLqvuK5kPrVwWudw2yMH8f7m3_1tdMFdFyqXuk0ApLuDm6INh87RCsYIGJE7Liog=w1200-h630-p-k-no-nu",
         "type": "Dragon"
         },
         {
