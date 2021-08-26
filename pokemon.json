@@ -113,8 +113,8 @@
       ]
   },
   {
-    "pokemonId": 16,
-    "level":1,
+    "pokemonId": 1,
+    "level":16,
     "name": "Pidgey",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/2.gif",
@@ -662,7 +662,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://lh3.googleusercontent.com/proxy/tSL_5SrbVTMPU_I94oZ-lKxIvhVaSHiE5RSBvic7h07nppl2d3j4_IWBgnOTf9VKfAtA3huOznfSBAm06B-Gekjiog",
+          "https://thumbs.gfycat.com/FastWindyCivet-max-1mb.gif",
         "type": "Flying"},{
           "name": "Ice Beam",
        "attack": 90,
@@ -682,7 +682,7 @@
        "attack": 100,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
+        "animation": "https://i.gifer.com/origin/b0/b08ecc6d6bb0cf160bb9bbdd64a50bfd_w200.gif",
         "type": "Flying"
         }
       ]
@@ -705,7 +705,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://lh3.googleusercontent.com/proxy/tSL_5SrbVTMPU_I94oZ-lKxIvhVaSHiE5RSBvic7h07nppl2d3j4_IWBgnOTf9VKfAtA3huOznfSBAm06B-Gekjiog",
+          "https://thumbs.gfycat.com/FastWindyCivet-max-1mb.gif",
         "type": "Flying"},{
           "name": "Flame Thrower",
        "attack": 90,
@@ -725,7 +725,7 @@
        "attack": 100,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
+        "animation": "https://i.gifer.com/origin/b0/b08ecc6d6bb0cf160bb9bbdd64a50bfd_w200.gif",
         "type": "Flying"
         }
       ]
@@ -747,7 +747,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://lh3.googleusercontent.com/proxy/tSL_5SrbVTMPU_I94oZ-lKxIvhVaSHiE5RSBvic7h07nppl2d3j4_IWBgnOTf9VKfAtA3huOznfSBAm06B-Gekjiog",
+          "https://thumbs.gfycat.com/FastWindyCivet-max-1mb.gif",
         "type": "Flying"},{
           "name": "Thunder Bolt",
        "attack": 90,
@@ -767,7 +767,7 @@
        "attack": 100,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
+        "animation": "https://i.gifer.com/origin/b0/b08ecc6d6bb0cf160bb9bbdd64a50bfd_w200.gif",
         "type": "Flying"
         }
    ]
@@ -914,7 +914,7 @@
         "attack": 90,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://www.vhv.rs/dpng/d/12-120898_transparent-background-claw-marks-png-png-download.png",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/f/fe/Slash_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20210604132623&path-prefix=en",
         "type": "Dragon"
         },
         {
@@ -1067,7 +1067,7 @@
         "attack": 65,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://lh3.googleusercontent.com/proxy/tSL_5SrbVTMPU_I94oZ-lKxIvhVaSHiE5RSBvic7h07nppl2d3j4_IWBgnOTf9VKfAtA3huOznfSBAm06B-Gekjiog",
+        "animation": "https://thumbs.gfycat.com/FastWindyCivet-max-1mb.gif",
         "type": "Flying"
         }
    ]
@@ -1107,7 +1107,7 @@
         "attack": 100,
         "level": "special",
         "gauge": 0,
-        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
+        "animation": "https://i.gifer.com/origin/b0/b08ecc6d6bb0cf160bb9bbdd64a50bfd_w200.gif",
         "type": "Flying"
         }
    ]
@@ -1557,7 +1557,7 @@
         "attack": 90,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://www.vhv.rs/dpng/d/12-120898_transparent-background-claw-marks-png-png-download.png",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/f/fe/Slash_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20210604132623&path-prefix=en",
         "type": "Dragon"
         },
         {
