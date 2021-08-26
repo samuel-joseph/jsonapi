@@ -227,11 +227,11 @@
     "name": "Pikachu",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/25.gif",
-    "health": 350,
-    "currentHealth": 350,
+    "health": 375,
+    "currentHealth": 375,
     "totalExperience": 100,
     "currentExperience": 0,
-    "fullyEvolved": false,
+    "fullyEvolved": true,
     "type": "Electric",
     "moves": [{
       "name": "Quick Attack",
@@ -244,10 +244,18 @@
         {
       "name": "Thunder Bolt",
         "attack": 65,
-        "level": "Medium",
+        "level": "medium",
         "gauge": 0,
         "animation":
           "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+        "type": "Electric"},
+              {
+      "name": "Thunder",
+        "attack": 120,
+        "level": "special",
+        "gauge": 0,
+        "animation":
+          "hhttps://www.herculeanpixel.com/images/news/ppb_shock.gif",
         "type": "Electric"}
       ]
   },
@@ -889,7 +897,7 @@
         "name": "Slash",
         "attack": 50,
         "level": "weak",
-        "gauge": 0,
+        "gauge": 100,
         "animation": "https://i.ya-webdesign.com/images/slash-effect-png-9.png",
         "type": "Normal"
         },
