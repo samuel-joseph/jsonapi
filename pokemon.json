@@ -1,4 +1,4 @@
-  "starter":[{
+{"starter":[{
     "pokemonId": 1,
     "level": 1,
     "name": "Bulbasaur",
@@ -84,3 +84,4 @@
         }
    ]
   }]
+}
