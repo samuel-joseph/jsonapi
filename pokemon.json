@@ -83,5 +83,307 @@
         "type": "Water"
         }
    ]
-  }]
+  }],
+ 
+ 
+ 
+ 
+ 
+ "common":
+  [{
+    "pokemonId": 19,
+    "level": 1,
+    "name": "Rattata",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/19.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/19.gif",
+    "health": 275,
+    "currentHealth": 275,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Normal",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"}
+      ]
+  },
+  {
+    "pokemonId": 16,
+    "level":1,
+    "name": "Pidgey",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/2.gif",
+    "health": 275,
+    "currentHealth": 275,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Flying",
+    "moves": [{
+      "name": "Peck",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://https://i.imgur.com/C2TBZZE.gif",
+        "type": "Flying"}
+      ]
+  },{
+    "pokemonId": 37,
+    "level": 1,
+    "name": "Vulpix",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/37.gif",
+    "health": 315,
+    "currentHealth": 315,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Fire",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Ember",
+       "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://i.pinimg.com/originals/29/ca/76/29ca767e0d917e541cd18eb97f4825dc.gif",
+        "type": "Fire"
+        }
+   ]
+  },{
+    "pokemonId": 60,
+    "level":1,
+    "name": "Poliwag",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/60.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/60.gif",
+    "health": 275,
+    "currentHealth": 275,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Water",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Water Gun",
+       "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
+        "type": "Water"
+        }
+      ]
+  },{
+    "pokemonId": 43,
+    "level": 1,
+    "name": "Oddish",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/43.gif",
+    "health": 275,
+    "currentHealth": 275,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Grass",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Vine Whip",
+       "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://i.imgur.com/uDJiGRk.gif",
+        "type": "Grass"
+        }
+   ]
+  }
+],
+  
+  "rare":
+  [{
+    "pokemonId": 25,
+    "level": 15,
+    "name": "Pikachu",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/25.gif",
+    "health": 350,
+    "currentHealth": 350,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Electric",
+    "moves": [{
+      "name": "Quick Attack",
+        "attack": 45,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},
+        {
+      "name": "Thunder Bolt",
+        "attack": 65,
+        "level": "Medium",
+        "gauge": 0,
+        "animation":
+          "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+        "type": "Electric"}
+      ]
+  },
+  {
+    "pokemonId": 129,
+    "level":15,
+    "name": "Magikarp",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/129.gif",
+    "health": 275,
+    "currentHealth": 275,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Water",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://https://i.imgur.com/C2TBZZE.gif",
+        "type": "Normal"}
+      ]
+  },{
+    "pokemonId": 120,
+    "level": 15,
+    "name": "Staryu",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/120.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/120.gif",
+    "health": 325,
+    "currentHealth": 325,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Fire",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Water Gun",
+       "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
+        "type": "Water"
+        }
+   ]
+  },{
+    "pokemonId": 93,
+    "level":15,
+    "name": "Haunter",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/93.gif",
+    "health": 350,
+    "currentHealth": 350,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Ghost",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Shadow Ball",
+       "attack": 75,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
+        "type": "Ghost"
+        }
+      ]
+  },{
+    "pokemonId": 64,
+    "level": 15,
+    "name": "Kadabra",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/64.gif",
+    "health": 350,
+    "currentHealth": 350,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Psychic",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Psywave",
+       "attack": 60,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://i.ya-webdesign.com/images/projectile-sprite-png-15.gif",
+        "type": "Psychic"
+        }
+   ]
+  },{
+    "pokemonId": 75,
+    "level": 15,
+    "name": "Graveler",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/75.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/75.gif",
+    "health": 325,
+    "currentHealth": 325,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Rock",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Rock Throw",
+       "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://cdna.artstation.com/p/assets/images/images/015/934/194/original/joshua-gates-quick-explosion.gif?1550235110",
+        "type": "Rock"
+        }
+   ]
+  }
+]
 }
