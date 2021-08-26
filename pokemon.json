@@ -126,11 +126,11 @@
       ]
   },
   {
-    "pokemonId": 283,
+    "pokemonId": 254,
     "level":45,
     "name": "Sceptile",
-    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/283.gif",
-    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/283.gif",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/254.gif",
     "health": 425,
     "currentHealth": 425,
     "totalExperience": 100,
