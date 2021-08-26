@@ -385,5 +385,383 @@
         }
    ]
   }
-]
+],
+ 
+ "unique":
+  [{
+    "pokemonId": 142,
+    "level": 30,
+    "name": "Aerodactyl",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/142.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/142.gif",
+    "health": 400,
+    "currentHealth": 400,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Flying",
+    "moves": [{
+      "name": "Rock Throw",
+        "attack": 50,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://cdna.artstation.com/p/assets/images/images/015/934/194/original/joshua-gates-quick-explosion.gif?1550235110",
+        "type": "Rock"},
+        {
+      "name": "Wing attack",
+        "attack": 60,
+        "level": "medium",
+        "gauge": 0,
+        "animation":
+          "https://i.gifer.com/Yrhh.gif",
+        "type": "Flying"},
+        {
+      "name": "Stone Edge",
+        "attack": 100,
+        "level": "Special",
+        "gauge": 0,
+        "animation":
+          "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
+        "type": "Rock"}
+      ]
+  },
+  {
+    "pokemonId": 147,
+    "level":1,
+    "name": "Dratini",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/147.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/147.gif",
+    "health": 300,
+    "currentHealth": 300,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": false,
+    "type": "Dragon",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://https://i.imgur.com/C2TBZZE.gif",
+        "type": "Normal"},
+        {
+      "name": "Dragon Rage",
+        "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation":
+          "https://orangemushroom.files.wordpress.com/2016/07/demon-awakening-effect-slash-1.gif?w=400",
+        "type": "Dragon"}
+      ]
+  },{
+    "pokemonId": 143,
+    "level": 30,
+    "name": "Snorlax",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/143.gif",
+    "health": 500,
+    "currentHealth": 500,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Normal",
+    "moves": [{
+      "name": "Tackle",
+        "attack": 35,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Take Down",
+       "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://cdna.artstation.com/p/assets/images/images/015/934/194/original/joshua-gates-quick-explosion.gif?1550235110",
+        "type": "Normal"
+        },{
+          "name": "Take Down",
+       "attack": 55,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://cdna.artstation.com/p/assets/images/images/015/934/194/original/joshua-gates-quick-explosion.gif?1550235110",
+        "type": "Normal"
+        }
+   ]
+  },{
+    "pokemonId": 131,
+    "level":30,
+    "name": "Lapras",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/131.gif",
+    "health": 400,
+    "currentHealth": 400,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Ice",
+    "moves": [{
+      "name": "Slam",
+        "attack": 50,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Ice Beam",
+       "attack": 75,
+        "level": "special",
+        "gauge": 0,
+        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "type": "Ice"
+        },{
+          "name": "Blizzard",
+       "attack": 120,
+        "level": "special",
+        "gauge": 0,
+        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "type": "Ice"
+        }
+      ]
+  },{
+    "pokemonId": 135,
+    "level": 30,
+    "name": "Jolteon",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/135.gif",
+    "health": 375,
+    "currentHealth": 375,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Electric",
+    "moves": [{
+      "name": "Quick Attack",
+        "attack": 45,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Thunder Bolt",
+       "attack": 65,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+        "type": "Electric"
+        },
+        {
+          "name": "Thunder",
+       "attack": 120,
+        "level": "special",
+        "gauge": 0,
+        "animation": "https://i.gifer.com/4bXG.gif",
+        "type": "Electric"
+        }
+   ]
+  },{
+    "pokemonId": 136,
+    "level": 30,
+    "name": "Flareon",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/136.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/136.gif",
+    "health": 375,
+    "currentHealth": 375,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Fire",
+    "moves": [{
+      "name": "Quick Attack",
+        "attack": 45,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Flame Thrower",
+       "attack": 65,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://i.gifer.com/3q62.gif",
+        "type": "Fire"
+        },{
+          "name": "Fire Blast",
+       "attack": 120,
+        "level": "special",
+        "gauge": 0,
+        "animation": "https://i.ya-webdesign.com/images/transparent-explosions-animated-gif-4.gif",
+        "type": "Fire"
+        }
+   ]
+  },
+  {
+    "pokemonId": 134,
+    "level": 30,
+    "name": "Vaporeon",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/134.gif",
+    "health": 375,
+    "currentHealth": 375,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Water",
+    "moves": [{
+      "name": "Quick Attack",
+        "attack": 45,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+        "type": "Normal"},{
+          "name": "Surf",
+       "attack": 65,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://webstockreview.net/images/clipart-mountain-ocean-1.gif",
+        "type": "Water"
+        },{
+          "name": "Hydro Pump",
+       "attack": 120,
+        "level": "special",
+        "gauge": 0,
+        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "type": "Water"
+        }
+   ]
+  }
+],
+  
+  
+    "legend":[{
+    "pokemonId": 144,
+    "level": 50,
+    "name": "Articuno",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/144.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/144.gif",
+    "health": 500,
+    "currentHealth": 500,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Ice",
+    "moves": [{
+      "name": "Wing Attack",
+        "attack": 50,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.gifer.com/Yrhh.gif",
+        "type": "Flying"},{
+          "name": "Ice Beam",
+       "attack": 90,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "type": "Ice"
+        },{
+          "name": "Blizzard",
+       "attack": 120,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "type": "Ice"
+        },{
+          "name": "Sky Attack",
+       "attack": 100,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "type": "Flying"
+        }
+      ]
+  },
+  {
+     "pokemonId": 146,
+    "level": 50,
+    "name": "Moltres",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/146.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/146.gif",
+    "health": 500,
+    "currentHealth": 500,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Fire",
+    "moves": [{
+      "name": "Wing Attack",
+        "attack": 50,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.gifer.com/Yrhh.gif",
+        "type": "Flying"},{
+          "name": "Flame Thrower",
+       "attack": 90,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://i.gifer.com/3q62.gif",
+        "type": "Fire"
+        },{
+          "name": "Fire Blast",
+       "attack": 120,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://i.ya-webdesign.com/images/transparent-explosions-animated-gif-4.gif",
+        "type": "Fire"
+        },{
+          "name": "Sky Attack",
+       "attack": 100,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "type": "Flying"
+        }
+      ]
+  },{
+    "pokemonId": 145,
+    "level": 50,
+    "name": "Zapdos",
+    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/145.gif",
+    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/145.gif",
+    "health": 500,
+    "currentHealth": 500,
+    "totalExperience": 100,
+    "currentExperience": 0,
+    "fullyEvolved": true,
+    "type": "Electric",
+    "moves": [{
+      "name": "Wing Attack",
+        "attack": 50,
+        "level": "weak",
+        "gauge": 100,
+        "animation":
+          "https://i.gifer.com/Yrhh.gif",
+        "type": "Flying"},{
+          "name": "Thunder Bolt",
+       "attack": 90,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+        "type": "Electric"
+        },{
+          "name": "Thunder",
+       "attack": 120,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://i.gifer.com/4bXG.gif",
+        "type": "Electric"
+        },{
+          "name": "Sky Attack",
+       "attack": 100,
+        "level": "Special",
+        "gauge": 0,
+        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "type": "Flying"
+        }
+   ]
+  }]
 }
