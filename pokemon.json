@@ -783,13 +783,6 @@
         "gauge": 0,
         "animation": "https://i.gifer.com/3q62.gif",
         "type": "Fire"
-        },{
-          "name": "Thunder Punch",
-       "attack": 55,
-        "level": "medium",
-        "gauge": 0,
-        "animation": "https://media0.giphy.com/media/KX4elv1MZEPq0hu1gk/giphy.gif?cid=6c09b9525cgw27no2sbdiqi05p0hh1238vin2mukpvq3erru&rid=giphy.gif&ct=s",
-        "type": "Electric"
         }
       ]
   },
@@ -805,14 +798,7 @@
     "currentExperience": 0,
     "fullyEvolved": true,
     "type": "Fire",
-    "moves": [{
-       "name": "Thunder Punch",
-       "attack": 50,
-        "level": "weak",
-        "gauge": 0,
-        "animation": "https://media0.giphy.com/media/KX4elv1MZEPq0hu1gk/giphy.gif?cid=6c09b9525cgw27no2sbdiqi05p0hh1238vin2mukpvq3erru&rid=giphy.gif&ct=s",
-        "type": "Electric"
-        },
+    "moves": [
         {
         "name": "Flame Thrower",
         "attack": 65,
