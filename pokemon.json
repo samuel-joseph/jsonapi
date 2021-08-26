@@ -244,10 +244,17 @@
         {
       "name": "Thunder Bolt",
         "attack": 65,
-        "level": "Medium",
+        "level": "medium",
         "gauge": 0,
         "animation":
           "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+        "type": "Electric"},
+        "name": "Thunder",
+        "attack": 120,
+        "level": "special",
+        "gauge": 0,
+        "animation":
+          "https://static.wikia.nocookie.net/tibia/images/4/43/Sparks_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150130131603&path-prefix=en",
         "type": "Electric"}
       ]
   },
@@ -414,7 +421,7 @@
         "level": "medium",
         "gauge": 0,
         "animation":
-          "https://i.gifer.com/Yrhh.gif",
+          "https://static.wikia.nocookie.net/tibia/images/f/f7/Ice_Tornado_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20190507150946&path-prefix=en",
         "type": "Flying"},
         {
       "name": "Stone Edge",
@@ -514,14 +521,14 @@
        "attack": 75,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "animation": "hhttps://static.wikia.nocookie.net/tibia/images/2/23/Ice_Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131111012&path-prefix=en",
         "type": "Ice"
         },{
           "name": "Blizzard",
        "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/c/c5/Ice_Crystal_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20190508174849&path-prefix=en",
         "type": "Ice"
         }
       ]
@@ -628,7 +635,7 @@
        "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/c/c5/Ice_Crystal_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20190508174849&path-prefix=en",
         "type": "Water"
         }
    ]
@@ -654,27 +661,27 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://i.gifer.com/Yrhh.gif",
+          "https://static.wikia.nocookie.net/tibia/images/f/f7/Ice_Tornado_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20190507150946&path-prefix=en",
         "type": "Flying"},{
           "name": "Ice Beam",
        "attack": 90,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "animation": "hhttps://static.wikia.nocookie.net/tibia/images/2/23/Ice_Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131111012&path-prefix=en",
         "type": "Ice"
         },{
           "name": "Blizzard",
        "attack": 120,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/c/c5/Ice_Crystal_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20190508174849&path-prefix=en",
         "type": "Ice"
         },{
           "name": "Sky Attack",
        "attack": 100,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
         "type": "Flying"
         }
       ]
@@ -717,7 +724,7 @@
        "attack": 100,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
         "type": "Flying"
         }
       ]
@@ -759,7 +766,7 @@
        "attack": 100,
         "level": "Special",
         "gauge": 0,
-        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
         "type": "Flying"
         }
    ]
@@ -869,6 +876,13 @@
         "gauge": 0,
         "animation": "https://i.gifer.com/3q62.gif",
         "type": "Fire"
+        },
+        "name": "Thunder Punch",
+       "attack": 65,
+        "level": "medium",
+        "gauge": 0,
+        "animation": "https://static.wikia.nocookie.net/tibia/images/0/04/Poof_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150130131350&path-prefix=en",
+        "type": "Electric"
         }
       ]
   },
@@ -889,7 +903,7 @@
         "name": "Slash",
         "attack": 50,
         "level": "weak",
-        "gauge": 0,
+        "gauge": 100,
         "animation": "https://i.ya-webdesign.com/images/slash-effect-png-9.png",
         "type": "Normal"
         },
@@ -952,7 +966,7 @@
         "attack": 75,
         "level": "Ice",
         "gauge": 0,
-        "animation": "https://i.ya-webdesign.com/images/anime-effects-png-11.png",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/2/23/Ice_Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131111012&path-prefix=en",
         "type": "Ice"
         }
    ]
@@ -989,7 +1003,7 @@
         "attack": 75,
         "level": "Ice",
         "gauge": 0,
-        "animation": "https://i.ya-webdesign.com/images/anime-effects-png-11.png",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/2/23/Ice_Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131111012&path-prefix=en",
         "type": "Ice"
         },
         {
@@ -997,7 +1011,7 @@
         "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/c/c5/Ice_Crystal_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20190508174849&path-prefix=en",
         "type": "Water"
         }
    ]
@@ -1099,7 +1113,7 @@
         "attack": 100,
         "level": "special",
         "gauge": 0,
-        "animation": "https://thumbs.gfycat.com/OffbeatEqualAlligatorgar-size_restricted.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/3/33/Holy_Cross_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131193617&path-prefix=en",
         "type": "Flying"
         }
    ]
@@ -1203,7 +1217,7 @@
         "attack": 100,
         "level": "special",
         "gauge": 0,
-        "animation": "ttps://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/2/23/Ice_Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131111012&path-prefix=en",
         "type": "Ice"
         }
    ]
@@ -1314,7 +1328,7 @@
         "attack": 150,
         "level": "special",
         "gauge": 0,
-        "animation": "https://media2.giphy.com/media/dphDDCpGfzJPq/source.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/7/78/Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150130131805&path-prefix=en",
         "type": "Normal"
         }
    ]
@@ -1477,7 +1491,7 @@
         "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+        "animation": "https://www.herculeanpixel.com/images/news/ppb_explosion.gif",
         "type": "Ground"
         }
    ]
@@ -1540,7 +1554,7 @@
         "name": "Dragon Rage",
         "attack": 50,
         "level": "weak",
-        "gauge": 0,
+        "gauge": 100,
         "animation": "https://orangemushroom.files.wordpress.com/2016/07/demon-awakening-effect-slash-1.gif?w=400",
         "type": "Dragon"
         },
@@ -1557,14 +1571,14 @@
         "attack": 100,
         "level": "special",
         "gauge": 0,
-        "animation": "https://pa1.narvii.com/6881/3e2030d2b7d2ffe47e7fd0fa6fea2b7ce27f43fdr1-350-500_hq.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/d/da/Teleport_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20140917205228&path-prefix=en",
         "type": "Dragon"
         },{
         "name": "Hyper Beam",
         "attack": 150,
         "level": "special",
         "gauge": 0,
-        "animation": "https://media2.giphy.com/media/dphDDCpGfzJPq/source.gif",
+        "animation": "https://static.wikia.nocookie.net/tibia/images/7/78/Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150130131805&path-prefix=en",
         "type": "Normal"
         }
    ]
