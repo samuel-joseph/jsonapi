@@ -36,72 +36,7 @@
                             }
                            ]
                 },
-        
-                        {
-                "pokemonId": 1,
-                "level": 1,
-                "name": "",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
-                "health": 0,
-                "currentHealth": 0,
-                "totalExperience": 0,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Grass",
-                "moves": [
-                           {
-                                "name": "Tackle",
-                                "attack": 35,
-                                "level": "weak",
-                                "gauge": 100,
-                                "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                                "type": "Normal"
-                            },
-                            {
-                                "name": "Vine Whip",
-                                "attack": 55,
-                                "level": "medium",
-                                "gauge": 0,
-                                "animation": "https://i.imgur.com/uDJiGRk.gif",
-                                "type": "Grass"
-                            }
-                           ]
-                },
-
-                {
-                "pokemonId": 1,
-                "level": 1,
-                "name": "",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
-                "health": 0,
-                "currentHealth": 0,
-                "totalExperience": 0,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Grass",
-                "moves": [
-                           {
-                                "name": "Tackle",
-                                "attack": 35,
-                                "level": "weak",
-                                "gauge": 100,
-                                "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                                "type": "Normal"
-                            },
-                            {
-                                "name": "Vine Whip",
-                                "attack": 55,
-                                "level": "medium",
-                                "gauge": 0,
-                                "animation": "https://i.imgur.com/uDJiGRk.gif",
-                                "type": "Grass"
-                            }
-                           ]
-                },
-                
-              ]
+               
         },
         {},
         {},
