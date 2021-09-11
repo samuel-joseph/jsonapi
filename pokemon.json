@@ -6,7 +6,7 @@
             image:"",
             pokemons:[
                 {
-                "pokemonId": ,
+                "pokemonId": 1,
                 "level": 1,
                 "name": "",
                 "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
@@ -38,7 +38,7 @@
                 },
         
                         {
-                "pokemonId": ,
+                "pokemonId": 1,
                 "level": 1,
                 "name": "",
                 "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
@@ -70,7 +70,7 @@
                 },
 
                 {
-                "pokemonId": ,
+                "pokemonId": 1,
                 "level": 1,
                 "name": "",
                 "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
