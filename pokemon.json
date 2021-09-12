@@ -1,8 +1,10 @@
 {
     "leaders":[
         {
-            "name":"",
-            "message":["","",""],
+            "name":"Brock",
+            "introMessage":"",
+            "winningMessage":"",
+            "losingMEssage":"",
             "image":"",
             "pokemon": [
                 {
@@ -105,7 +107,9 @@
         {
             
             "name":"",
-            "message":["","",""],
+            "introMessage":"",
+            "winningMessage":"",
+            "losingMEssage":"",
             "image":"",
             "pokemon": [
                 {
