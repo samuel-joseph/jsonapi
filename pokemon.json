@@ -2,9 +2,9 @@
     "leaders":[
         {
             "name":"Brock",
-            "introMessage":"",
-            "winningMessage":"",
-            "losingMEssage":"",
+            "introMessage":"My name is Brock and let's rock!",
+            "winningMessage":"Well done kid!",
+            "losingMEssage":"You got rocked!",
             "image":"",
             "pokemon": [
                 {
