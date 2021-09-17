@@ -8,17 +8,17 @@
             "image":"",
             "pokemon": [
                 {
-                "pokemonId": 1,
-                "level": 1,
-                "name": "Bulbasaur",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
-                "health": 300,
-                "currentHealth": 300,
+                "pokemonId": 74,
+                "level": 15,
+                "name": "Geodude",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/74.gif",
+                "health": 350,
+                "currentHealth": 350,
                 "totalExperience": 100,
                 "currentExperience": 0,
                 "fullyEvolved": false,
-                "type": "Grass",
+                "type": "Rock",
                 "moves": [
                     {
                         "name": "Tackle",
@@ -29,74 +29,43 @@
                         "type": "Normal"
                     },
                     {
-                        "name": "Vine Whip",
-                        "attack": 55,
+                        "name": "Rock Slide",
+                        "attack": 75,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://i.imgur.com/uDJiGRk.gif",
-                        "type": "Grass"
+                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "type": "Rock"
                     }
                   ]
                 },
                 {
-                "pokemonId": 1,
-                "level": 1,
-                "name": "Bulbasaur",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
-                "health": 300,
-                "currentHealth": 300,
+                "pokemonId": 95,
+                "level": 17,
+                "name": "Onix",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/95.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/95.gif",
+                "health": 375,
+                "currentHealth": 375,
                 "totalExperience": 100,
                 "currentExperience": 0,
                 "fullyEvolved": false,
-                "type": "Grass",
+                "type": "Rock",
                 "moves": [
                     {
-                        "name": "Tackle",
-                        "attack": 35,
+                        "name": "Rock Slide",
+                        "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
+                        "animation": "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
+                        "type": "Rock"
                     },
                     {
-                        "name": "Vine Whip",
-                        "attack": 55,
-                        "level": "medium",
+                        "name": "Stone Edge",
+                        "attack": 100,
+                        "level": "special",
                         "gauge": 0,
-                        "animation": "https://i.imgur.com/uDJiGRk.gif",
-                        "type": "Grass"
-                    }
-                  ]
-                },
-                {
-                "pokemonId": 1,
-                "level": 1,
-                "name": "Bulbasaur",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
-                "health": 300,
-                "currentHealth": 300,
-                "totalExperience": 100,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Grass",
-                "moves": [
-                    {
-                        "name": "Tackle",
-                        "attack": 35,
-                        "level": "weak",
-                        "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
-                    },
-                    {
-                        "name": "Vine Whip",
-                        "attack": 55,
-                        "level": "medium",
-                        "gauge": 0,
-                        "animation": "https://i.imgur.com/uDJiGRk.gif",
-                        "type": "Grass"
+                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
+                        "type": "Rock"
                     }
                   ]
                 }
