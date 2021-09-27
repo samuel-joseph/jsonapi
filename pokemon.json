@@ -4,7 +4,7 @@
             "name":"Brock",
             "introMessage":"My name is Brock and let's rock!",
             "winningMessage":"Well done kid!",
-            "losingMEssage":"You got rocked!",
+            "losingMessage":"You got rocked!",
             "image":"",
             "pokemon": [
                 {
@@ -76,23 +76,23 @@
         {
             
             "name":"Misty",
-            "introMessage":"",
-            "winningMessage":"",
-            "losingMEssage":"",
-            "image":"",
+            "introMessage":"Ready for a swimming lesson?",
+            "winningMessage":"You are better than I thought!",
+            "losingMessage":"Better luck next time!",
+            "image":"https://static.wikia.nocookie.net/pokemonlp-utomaikeru/images/f/f6/Lets_Go_Pikachu_Eevee_Misty.png/revision/latest?cb=20180713004719",
             "pokemon": [
                 {
-                "pokemonId": 1,
-                "level": 1,
-                "name": "Bulbasaur",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
-                "health": 300,
-                "currentHealth": 300,
+                "pokemonId": 120,
+                "level": 20,
+                "name": "Staryu",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/120.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/120.gif",
+                "health": 350,
+                "currentHealth": 350,
                 "totalExperience": 100,
                 "currentExperience": 0,
                 "fullyEvolved": false,
-                "type": "Grass",
+                "type": "Water",
                 "moves": [
                     {
                         "name": "Tackle",
@@ -103,82 +103,54 @@
                         "type": "Normal"
                     },
                     {
-                        "name": "Vine Whip",
+                        "name": "Water Gun",
                         "attack": 55,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://i.imgur.com/uDJiGRk.gif",
-                        "type": "Grass"
+                        "animation": "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
+                        "type": "Water"
                     }
                   ]
                 },
                 {
-                "pokemonId": 1,
-                "level": 1,
-                "name": "Bulbasaur",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
-                "health": 300,
-                "currentHealth": 300,
+                "pokemonId": 121,
+                "level": 25,
+                "name": "Starmie",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/121.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/121.gif",
+                "health": 375,
+                "currentHealth": 375,
                 "totalExperience": 100,
                 "currentExperience": 0,
                 "fullyEvolved": false,
-                "type": "Grass",
+                "type": "Water",
                 "moves": [
                     {
-                        "name": "Tackle",
-                        "attack": 35,
+                        "name": "Water Gun",
+                        "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
+                        "animation": "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
+                        "type": "Water"
                     },
                     {
-                        "name": "Vine Whip",
-                        "attack": 55,
-                        "level": "medium",
+                        "name": "Surf",
+                        "attack": 100,
+                        "level": "special",
                         "gauge": 0,
-                        "animation": "https://i.imgur.com/uDJiGRk.gif",
-                        "type": "Grass"
+                        "animation": "https://webstockreview.net/images/clipart-mountain-ocean-1.gif",
+                        "type": "Water"
                     }
                   ]
                 },
-                {
-                "pokemonId": 1,
-                "level": 1,
-                "name": "Bulbasaur",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/1.gif",
-                "health": 300,
-                "currentHealth": 300,
-                "totalExperience": 100,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Grass",
-                "moves": [
-                    {
-                        "name": "Tackle",
-                        "attack": 35,
-                        "level": "weak",
-                        "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
-                    },
-                    {
-                        "name": "Vine Whip",
-                        "attack": 55,
-                        "level": "medium",
-                        "gauge": 0,
-                        "animation": "https://i.imgur.com/uDJiGRk.gif",
-                        "type": "Grass"
-                    }
-                  ]
-                }
+               
             ]
         
         
         },
-        {},
+        {
+        
+        },
         {},
         {},
         {},
