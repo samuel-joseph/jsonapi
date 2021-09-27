@@ -244,7 +244,106 @@
             ]
         
         },
-        {},
+        {
+            
+            
+            
+             "name":"Erika",
+            "introMessage":"You like planting?",
+            "winningMessage":"Congrats!",
+            "losingMessage":"Oops!",
+            "image":"https://www.pngitem.com/pimgs/m/258-2580275_pokemon-lets-go-erika-hd-png-download.png",
+            "pokemon": [
+                {
+                "pokemonId": 71,
+                "level": 29,
+                "name": "Victreebel",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/71.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/71.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Grass",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 35,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Vine Whip",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://i.imgur.com/uDJiGRk.gif",
+                        "type": "Grass"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 114,
+                "level": 24,
+                "name": "Tangela",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/114.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/114.gif",
+                "health": 350,
+                "currentHealth": 350,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Grass",
+                "moves": [
+                    {
+                        "name": "Vine Whip",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.imgur.com/uDJiGRk.gif",
+                        "type": "Grass"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 45,
+                "level": 29,
+                "name": "Vileplume",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/45.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/45.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Poison",
+                "moves": [
+                    {
+                        "name": "Vine Whip",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.imgur.com/uDJiGRk.gif",
+                        "type": "Grass"
+                    },
+                    {
+                        "name": "Toxic",
+                        "attack": 100,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
+                        "type": "Poison"
+                    }
+                  ]
+                }
+            ]
+            
+            
+        
+        },
         {},
         {},
         {},
