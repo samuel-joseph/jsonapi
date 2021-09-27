@@ -494,9 +494,9 @@
                     },
                 {
                         "name": "X Scissor",
-                        "attack": 50,
+                        "attack": 75,
                         "level": "mediun",
-                        "gauge": 75,
+                        "gauge": 0,
                         "animation": "https://images.vexels.com/media/users/3/155299/isolated/preview/1988d1faba4d059eb4461d955af5cf61-x-mark-scribble-by-vexels.png",
                         "type": "Bug"
                     }
@@ -519,7 +519,7 @@
                     "name": "Night Shade",
                     "attack": 40,
                     "level": "weak",
-                    "gauge": 1000,
+                    "gauge": 100,
                     "animation": "https://thumbs.gfycat.com/SickEnchantingAdamsstaghornedbeetle-small.gif",
                     "type": "Ghost"
                     },
@@ -539,7 +539,108 @@
             
             
         },
-        {},
+        {
+            
+            
+            
+            
+            "name":"Blane",
+            "introMessage":"I see the fire burning in your eyes!",
+            "winningMessage":"Keep the fire burning!",
+            "losingMessage":"You got BURNED!",
+            "image":"https://static.wikia.nocookie.net/pokemon/images/f/f5/Blaine_FireRed_and_LeafGreen.png/revision/latest?cb=20111016021924",
+            "pokemon": [
+                {
+                "pokemonId": 126,
+                "level": 35,
+                "name": "Magmar",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/126.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/126.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Fire",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 78,
+                "level": 35,
+                "name": "Rapidash",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/78.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/78.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Fire",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                {
+                        "name": "Flame Thrower",
+                        "attack": 75,
+                        "level": "mediun",
+                        "gauge": 0,
+                        "animation": "https://i.gifer.com/3q62.gif",
+                        "type": "Fire"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 59,
+                "level": 36,
+                "name": "Arcanine",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/59.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/59.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Fire",
+                "moves": [
+                    {
+                    "name": "Ember",
+                    "attack": 50,
+                    "level": "weak",
+                    "gauge": 100,
+                    "animation": "https://thumbs.gfycat.com/SickEnchantingAdamsstaghornedbeetle-small.gif",
+                    "type": "Ghost"
+                    },
+                    {
+                    "name": "Flame Thrower",
+                    "attack": 90,
+                    "level": "medium",
+                    "gauge": 0,
+                    "animation": "https://i.gifer.com/3q62.gif",
+                    "type": "Fire"
+                    }
+                  ]
+                }
+            ]
+            
+            
+            
+            
+        },
         {},
         {},
         {},
