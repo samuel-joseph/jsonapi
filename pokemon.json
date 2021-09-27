@@ -437,7 +437,108 @@
             
         
         },
-        {},
+        {
+            
+            
+            
+            
+            "name":"Sabrina",
+            "introMessage":"I can read your mind!",
+            "winningMessage":"Got psyched!",
+            "losingMessage":"Psyched! That's the wrong number!",
+            "image":"https://cdn2.bulbagarden.net/upload/thumb/7/78/Lets_Go_Pikachu_Eevee_Sabrina.png/211px-Lets_Go_Pikachu_Eevee_Sabrina.png",
+            "pokemon": [
+                {
+                "pokemonId": 122,
+                "level": 33,
+                "name": "Mr Mime",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/122.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/122.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Psychic",
+                "moves": [
+                    {
+                        "name": "Psywave",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/projectile-sprite-png-15.gif",
+                        "type": "Psychic"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 49,
+                "level": 34,
+                "name": "Venomoth",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/49.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/49.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Bug",
+                "moves": [
+                    {
+                        "name": "Toxic",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
+                        "type": "Poison"
+                    },
+                {
+                        "name": "X Scissor",
+                        "attack": 50,
+                        "level": "mediun",
+                        "gauge": 75,
+                        "animation": "https://images.vexels.com/media/users/3/155299/isolated/preview/1988d1faba4d059eb4461d955af5cf61-x-mark-scribble-by-vexels.png",
+                        "type": "Bug"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 65,
+                "level": 34,
+                "name": "Alakazam",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/65.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Psychic",
+                "moves": [
+                    {
+                    "name": "Night Shade",
+                    "attack": 40,
+                    "level": "weak",
+                    "gauge": 1000,
+                    "animation": "https://thumbs.gfycat.com/SickEnchantingAdamsstaghornedbeetle-small.gif",
+                    "type": "Ghost"
+                    },
+                    {
+                    "name": "Psychic",
+                    "attack": 100,
+                    "level": "special",
+                    "gauge": 0,
+                    "animation": "https://pa1.narvii.com/6916/24eaf472b2d3a587aed0c268fcd42f35aedb7061r1-1024-1024_hq.gif",
+                    "type": "Psychic"
+                    }
+                  ]
+                }
+            ]
+            
+            
+            
+            
+        },
         {},
         {},
         {},
