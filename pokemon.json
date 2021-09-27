@@ -149,6 +149,99 @@
         
         },
         {
+            
+            "name":"Lt. Surge",
+            "introMessage":"You better be electrifying!",
+            "winningMessage":"You electrified me!",
+            "losingMessage":"ZAP!",
+            "image":"https://cdn2.bulbagarden.net/upload/thumb/b/bc/Lets_Go_Pikachu_Eevee_Lt_Surge.png/216px-Lets_Go_Pikachu_Eevee_Lt_Surge.png",
+            "pokemon": [
+                {
+                "pokemonId": 100,
+                "level": 22,
+                "name": "Voltorb",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/100.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/100.gif",
+                "health": 350,
+                "currentHealth": 350,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Electric",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 25,
+                "level": 20,
+                "name": "Pikachu",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/25.gif",
+                "health": 350,
+                "currentHealth": 350,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Electric",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Thunder Bolt",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+                        "type": "Electric"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 26,
+                "level": 24,
+                "name": "Raichu",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/26.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Electric",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Thunder Bolt",
+                        "attack": 100,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+                        "type": "Electric"
+                    }
+                  ]
+                }
+            ]
         
         },
         {},
