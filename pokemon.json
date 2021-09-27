@@ -344,7 +344,99 @@
             
         
         },
-        {},
+        {
+            
+            
+            
+            
+             "name":"Koga",
+            "introMessage":"I'm a ninja and my pokemons are toxic!",
+            "winningMessage":"Hmmmm!",
+            "losingMessage":"Suck it Jian Yiang !",
+            "image":"https://static.wikia.nocookie.net/pokemon/images/a/a8/Koga_Masters.png/revision/latest?cb=20191020205639",
+            "pokemon": [
+                {
+                "pokemonId": 109,
+                "level": 32,
+                "name": "Koffing",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/109.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/109.gif",
+                "health": 350,
+                "currentHealth": 350,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Poison",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 89,
+                "level": 34,
+                "name": "Muk",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/89.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/89.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Poison",
+                "moves": [
+                    {
+                        "name": "Toxic",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
+                        "type": "Poison"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 33,
+                "level": 34,
+                "name": "Weezing",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/33.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/33.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Poison",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Poison"
+                    },
+                    {
+                        "name": "Toxic",
+                        "attack": 100,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
+                        "type": "Poison"
+                    }
+                  ]
+                }
+            ]
+            
+            
+        
+        },
         {},
         {},
         {},
