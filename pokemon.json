@@ -796,11 +796,815 @@
             
             
         },
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+            
+            
+            
+            
+            "name":"Lorelei",
+            "introMessage":"I am the Ice-type Pokémon Trainer Lorelei. I wonder, will you be able to make me feel the heat of battle?",
+            "winningMessage":"But now that you beat us, I expect you to keep on winning! You owe us that much, right?",
+            "losingMessage":"I'll see you later.",
+            "image":"https://static.wikia.nocookie.net/pokemon/images/6/63/Lorelei_FireRed_and_LeafGreen.png/revision/latest?cb=20111028210506",
+            "pokemon": [
+                {
+                    "pokemonId": 87,
+                    "level":40,
+                    "name": "Dewgong",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/87.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/87.gif",
+                    "health": 400,
+                    "currentHealth": 400,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": true,
+                    "type": "Ice",
+                    "moves": [{
+                      "name": "Slam",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation":
+                          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"},{
+                          "name": "Ice Beam",
+                       "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+                        "type": "Ice"
+                        }
+                      ]
+                  }
+                ,
+                 {
+                    "pokemonId": 91,
+                    "level":40,
+                    "name": "Cloyster",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/91.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/91.gif",
+                    "health": 415,
+                    "currentHealth": 415,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": true,
+                    "type": "Ice",
+                    "moves": [{
+                      "name": "Water Gun",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation":
+                          "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
+                        "type": "Water"},{
+                          "name": "Ice Beam",
+                       "attack": 90,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://i.ya-webdesign.com/images/anime-effects-png-11.png",
+                        "type": "Ice"
+                        }
+                      ]
+                  },
+                {
+                    "pokemonId": 80,
+                    "level":42,
+                    "name": "Slowbro",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/80.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/80.gif",
+                    "health": 430,
+                    "currentHealth": 430,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": true,
+                    "type": "Psychic",
+                    "moves": [{
+                      "name": "Water Gun",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation":
+                          "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
+                        "type": "Water"},{
+                          "name": "Ice Beam",
+                       "attack": 90,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://i.ya-webdesign.com/images/anime-effects-png-11.png",
+                        "type": "Ice"
+                        },
+                         {
+                        "name": "Psychic",
+                        "attack": 100,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "type": "Psychic"
+                        }
+                      ]
+                  },
+                {
+                    "pokemonId": 124,
+                    "level":40,
+                    "name": "Jynx",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/124.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/124.gif",
+                    "health": 400,
+                    "currentHealth": 400,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": true,
+                    "type": "Ice",
+                    "moves": [{
+                      "name": "Confusion",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation":
+                          "https://i.gifer.com/OupZ.gif",
+                        "type": "Psychic"},{
+                          "name": "Ice Beam",
+                       "attack": 90,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://i.ya-webdesign.com/images/anime-effects-png-11.png",
+                        "type": "Ice"
+                        }
+                      ]
+                  }
+                ,
+                {
+                    "pokemonId": 131,
+                    "level":44,
+                    "name": "Lapras",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/131.gif",
+                    "health": 440,
+                    "currentHealth": 440,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": true,
+                    "type": "Ice",
+                    "moves": [{
+                      "name": "Slam",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation":
+                          "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"},{
+                          "name": "Ice Beam",
+                       "attack": 75,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+                        "type": "Ice"
+                        },{
+                          "name": "Blizzard",
+                       "attack": 120,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+                        "type": "Ice"
+                        }
+                      ]
+                  }
+            ]
+        },
+        {
+        
+            
+            
+            
+            "name":"Bruno",
+            "introMessage":"So! I must say, I am impressed you got here!",
+            "winningMessage":"Ha! That was a truly intense fight! You have won! ",
+            "losingMessage":"My pokemons are far stronger!",
+            "image":"https://static.wikia.nocookie.net/pokemon/images/b/b2/Giovanni_Masters.png/revision/latest?cb=20191128040428",
+            "pokemon": [
+                {
+                "pokemonId": 111,
+                "level": 39,
+                "name": "Rhyhorn",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/111.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Mud Slap",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "type": "Ground"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 34,
+                "level": 40,
+                "name": "Nidoking",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/34.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Poison",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Poison Sting",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "type": "Poison"
+                    },
+                     {
+                        "name": "Earth Quake",
+                        "attack": 120,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                        "type": "Ground"
+                        }
+                  ]
+                },
+                {
+                "pokemonId": 31,
+                "level": 41,
+                "name": "Nidoqueen",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/31.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                    "name": "Poison Sting",
+                    "attack": 50,
+                    "level": "weak",
+                    "gauge": 100,
+                    "animation": "https://i.gifer.com/OupZ.gif",
+                    "type": "Poison"
+                    },
+                    {
+                     "name": "Earth Quake",
+                     "attack": 120,
+                     "level": "special",
+                     "gauge": 0,
+                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                     "type": "Ground"
+                        }
+                  ]
+                },
+                {
+                "pokemonId": 112,
+                "level": 43,
+                "name": "Rhydon",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/112.gif",
+                "health": 400,
+                "currentHealth": 400,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                        "name": "Mud Slap",
+                        "attack": 50,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "type": "Ground"
+                    }
+                    ,
+                    {
+                    "name": "Thunderbolt",
+                    "attack": 90,
+                    "level": "medium",
+                    "gauge": 0,
+                    "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+                    "type": "Electric"
+                    },
+                    {
+                     "name": "Earth Quake",
+                     "attack": 120,
+                     "level": "special",
+                     "gauge": 0,
+                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                     "type": "Ground"
+                        }
+                  ]
+                }
+            ]
+            
+            
+        
+        
+        },
+        {
+            
+            
+            
+            
+            "name":"Agatha",
+            "introMessage":"So! I must say, I am impressed you got here!",
+            "winningMessage":"Ha! That was a truly intense fight! You have won! ",
+            "losingMessage":"My pokemons are far stronger!",
+            "image":"https://static.wikia.nocookie.net/pokemon/images/b/b2/Giovanni_Masters.png/revision/latest?cb=20191128040428",
+            "pokemon": [
+                {
+                "pokemonId": 111,
+                "level": 39,
+                "name": "Rhyhorn",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/111.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Mud Slap",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "type": "Ground"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 34,
+                "level": 40,
+                "name": "Nidoking",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/34.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Poison",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Poison Sting",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "type": "Poison"
+                    },
+                     {
+                        "name": "Earth Quake",
+                        "attack": 120,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                        "type": "Ground"
+                        }
+                  ]
+                },
+                {
+                "pokemonId": 31,
+                "level": 41,
+                "name": "Nidoqueen",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/31.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                    "name": "Poison Sting",
+                    "attack": 50,
+                    "level": "weak",
+                    "gauge": 100,
+                    "animation": "https://i.gifer.com/OupZ.gif",
+                    "type": "Poison"
+                    },
+                    {
+                     "name": "Earth Quake",
+                     "attack": 120,
+                     "level": "special",
+                     "gauge": 0,
+                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                     "type": "Ground"
+                        }
+                  ]
+                },
+                {
+                "pokemonId": 112,
+                "level": 43,
+                "name": "Rhydon",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/112.gif",
+                "health": 400,
+                "currentHealth": 400,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                        "name": "Mud Slap",
+                        "attack": 50,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "type": "Ground"
+                    }
+                    ,
+                    {
+                    "name": "Thunderbolt",
+                    "attack": 90,
+                    "level": "medium",
+                    "gauge": 0,
+                    "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+                    "type": "Electric"
+                    },
+                    {
+                     "name": "Earth Quake",
+                     "attack": 120,
+                     "level": "special",
+                     "gauge": 0,
+                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                     "type": "Ground"
+                        }
+                  ]
+                }
+            ]
+            
+            
+            
+            
+        
+        },
+        {
+            
+            
+            
+            
+            "name":"Lance",
+            "introMessage":"So! I must say, I am impressed you got here!",
+            "winningMessage":"Ha! That was a truly intense fight! You have won! ",
+            "losingMessage":"My pokemons are far stronger!",
+            "image":"https://static.wikia.nocookie.net/pokemon/images/b/b2/Giovanni_Masters.png/revision/latest?cb=20191128040428",
+            "pokemon": [
+                {
+                "pokemonId": 111,
+                "level": 39,
+                "name": "Rhyhorn",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/111.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Mud Slap",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "type": "Ground"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 34,
+                "level": 40,
+                "name": "Nidoking",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/34.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Poison",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Poison Sting",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "type": "Poison"
+                    },
+                     {
+                        "name": "Earth Quake",
+                        "attack": 120,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                        "type": "Ground"
+                        }
+                  ]
+                },
+                {
+                "pokemonId": 31,
+                "level": 41,
+                "name": "Nidoqueen",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/31.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                    "name": "Poison Sting",
+                    "attack": 50,
+                    "level": "weak",
+                    "gauge": 100,
+                    "animation": "https://i.gifer.com/OupZ.gif",
+                    "type": "Poison"
+                    },
+                    {
+                     "name": "Earth Quake",
+                     "attack": 120,
+                     "level": "special",
+                     "gauge": 0,
+                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                     "type": "Ground"
+                        }
+                  ]
+                },
+                {
+                "pokemonId": 112,
+                "level": 43,
+                "name": "Rhydon",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/112.gif",
+                "health": 400,
+                "currentHealth": 400,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                        "name": "Mud Slap",
+                        "attack": 50,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "type": "Ground"
+                    }
+                    ,
+                    {
+                    "name": "Thunderbolt",
+                    "attack": 90,
+                    "level": "medium",
+                    "gauge": 0,
+                    "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+                    "type": "Electric"
+                    },
+                    {
+                     "name": "Earth Quake",
+                     "attack": 120,
+                     "level": "special",
+                     "gauge": 0,
+                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                     "type": "Ground"
+                        }
+                  ]
+                }
+            ]
+            
+            
+        
+        
+        
+        },
+        {
+            
+            
+            
+            
+            "name":"Creator",
+            "introMessage":"So! I must say, I am impressed you got here!",
+            "winningMessage":"Ha! That was a truly intense fight! You have won! ",
+            "losingMessage":"My pokemons are far stronger!",
+            "image":"https://static.wikia.nocookie.net/pokemon/images/b/b2/Giovanni_Masters.png/revision/latest?cb=20191128040428",
+            "pokemon": [
+                {
+                "pokemonId": 111,
+                "level": 39,
+                "name": "Rhyhorn",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/111.gif",
+                "health": 375,
+                "currentHealth": 375,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 45,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Mud Slap",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "type": "Ground"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 34,
+                "level": 40,
+                "name": "Nidoking",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/34.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Poison",
+                "moves": [
+                    {
+                        "name": "Tackle",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Normal"
+                    },
+                    {
+                        "name": "Poison Sting",
+                        "attack": 75,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "type": "Poison"
+                    },
+                     {
+                        "name": "Earth Quake",
+                        "attack": 120,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                        "type": "Ground"
+                        }
+                  ]
+                },
+                {
+                "pokemonId": 31,
+                "level": 41,
+                "name": "Nidoqueen",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/31.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                    "name": "Poison Sting",
+                    "attack": 50,
+                    "level": "weak",
+                    "gauge": 100,
+                    "animation": "https://i.gifer.com/OupZ.gif",
+                    "type": "Poison"
+                    },
+                    {
+                     "name": "Earth Quake",
+                     "attack": 120,
+                     "level": "special",
+                     "gauge": 0,
+                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                     "type": "Ground"
+                        }
+                  ]
+                },
+                {
+                "pokemonId": 112,
+                "level": 43,
+                "name": "Rhydon",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/112.gif",
+                "health": 400,
+                "currentHealth": 400,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ground",
+                "moves": [
+                    {
+                        "name": "Mud Slap",
+                        "attack": 50,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "type": "Ground"
+                    }
+                    ,
+                    {
+                    "name": "Thunderbolt",
+                    "attack": 90,
+                    "level": "medium",
+                    "gauge": 0,
+                    "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+                    "type": "Electric"
+                    },
+                    {
+                     "name": "Earth Quake",
+                     "attack": 120,
+                     "level": "special",
+                     "gauge": 0,
+                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+                     "type": "Ground"
+                        }
+                  ]
+                }
+            ]
+            
+            
+            
+        
+        }
     ],
     
     
