@@ -977,150 +977,172 @@
             
             
             "name":"Bruno",
-            "introMessage":"So! I must say, I am impressed you got here!",
-            "winningMessage":"Ha! That was a truly intense fight! You have won! ",
+            "introMessage":"I am Bruno of the Elite Four! Through rigorous training, people and Pokémon can become stronger—without limit. I've lived and trained with my Fighting-type Pokémon! And that will never change!",
+            "winningMessage":"Having lost, I have no right to say anything… Go face your next challenge!",
             "losingMessage":"My pokemons are far stronger!",
-            "image":"https://static.wikia.nocookie.net/pokemon/images/b/b2/Giovanni_Masters.png/revision/latest?cb=20191128040428",
+            "image":"https://cdn2.bulbagarden.net/upload/4/4c/Lets_Go_Pikachu_Eevee_Bruno.png",
             "pokemon": [
                 {
-                "pokemonId": 111,
-                "level": 39,
-                "name": "Rhyhorn",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/111.gif",
-                "health": 375,
-                "currentHealth": 375,
+                "pokemonId": 95,
+                "level": 40,
+                "name": "Onix",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/95.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/95.gif",
+                "health": 410,
+                "currentHealth": 410,
                 "totalExperience": 100,
                 "currentExperience": 0,
                 "fullyEvolved": false,
-                "type": "Ground",
+                "type": "Rock",
                 "moves": [
                     {
-                        "name": "Tackle",
-                        "attack": 45,
+                        "name": "Rock Slide",
+                        "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
+                        "animation": "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
+                        "type": "Rock"
                     },
                     {
-                        "name": "Mud Slap",
-                        "attack": 75,
+                        "name": "Stone Edge",
+                        "attack": 90,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
-                        "type": "Ground"
+                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
+                        "type": "Rock"
                     }
                   ]
                 },
                 {
-                "pokemonId": 34,
-                "level": 40,
-                "name": "Nidoking",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/34.gif",
+                "pokemonId": 107,
+                "level": 41,
+                "name": "Hitmonchan",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/107.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/107.gif",
                 "health": 390,
                 "currentHealth": 390,
                 "totalExperience": 100,
                 "currentExperience": 0,
                 "fullyEvolved": false,
-                "type": "Poison",
+                "type": "Fighting",
                 "moves": [
                     {
-                        "name": "Tackle",
+                        "name": "Comet Punch",
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
                         "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
+                        "type": "Fighting"
                     },
                     {
-                        "name": "Poison Sting",
-                        "attack": 75,
+                        "name": "Mega Punch",
+                        "attack": 99,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://i.gifer.com/OupZ.gif",
-                        "type": "Poison"
+                        "animation": "https://mpng.subpng.com/20180204/wpq/kisspng-display-resolution-clip-art-punch-png-free-download-5a7741ef729c96.3119666215177651034695.jpg",
+                        "type": "Fighting"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 106,
+                "level": 41,
+                "name": "Hitmonlee",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/106.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/106.gif",
+                "health": 390,
+                "currentHealth": 390,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Fighting",
+                "moves": [
+                    {
+                        "name": "Comet Punch",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
+                        "type": "Fighting"
                     },
-                     {
-                        "name": "Earth Quake",
+                    {
+                     "name": "High Jump Kick",
+                     "attack": 99,
+                     "level": "medium",
+                     "gauge": 0,
+                     "animation": "https://lh3.googleusercontent.com/proxy/uuBy7SVhG62v0kT9ktOJYmnmxnF_nn-S6lUeibAIfeAQeF_jLfunCoRuPvN5SkMpgFv-8UeE3QHTHoZj2RKhVwv1",
+                     "type": "Fighting"
+                        }
+                  ]
+                },
+                {
+                "pokemonId": 95,
+                "level": 40,
+                "name": "Onix",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/95.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/95.gif",
+                "health": 430,
+                "currentHealth": 430,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Rock",
+                "moves": [
+                    {
+                        "name": "Rock Slide",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
+                        "type": "Rock"
+                    },
+                    {
+                        "name": "Stone Edge",
+                        "attack": 90,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
+                        "type": "Rock"
+                    }
+                  ]
+                },
+                 {
+                "pokemonId": 68,
+                "level": 45,
+                "name": "Machamp",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/68.gif",
+                "health": 440,
+                "currentHealth": 440,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Fighting",
+                "moves": [
+                    {
+                        "name": "Mega Punch",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://mpng.subpng.com/20180204/wpq/kisspng-display-resolution-clip-art-punch-png-free-download-5a7741ef729c96.3119666215177651034695.jpg",
+                        "type": "Fighting"
+                    },
+                    {
+                        "name": "Stone Edge",
+                        "attack": 90,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
+                        "type": "Rock"
+                    },
+                    {
+                        "name": "Cross Chop",
                         "attack": 120,
                         "level": "special",
                         "gauge": 0,
-                        "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
-                        "type": "Ground"
-                        }
-                  ]
-                },
-                {
-                "pokemonId": 31,
-                "level": 41,
-                "name": "Nidoqueen",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/31.gif",
-                "health": 390,
-                "currentHealth": 390,
-                "totalExperience": 100,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Ground",
-                "moves": [
-                    {
-                    "name": "Poison Sting",
-                    "attack": 50,
-                    "level": "weak",
-                    "gauge": 100,
-                    "animation": "https://i.gifer.com/OupZ.gif",
-                    "type": "Poison"
-                    },
-                    {
-                     "name": "Earth Quake",
-                     "attack": 120,
-                     "level": "special",
-                     "gauge": 0,
-                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
-                     "type": "Ground"
-                        }
-                  ]
-                },
-                {
-                "pokemonId": 112,
-                "level": 43,
-                "name": "Rhydon",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/112.gif",
-                "health": 400,
-                "currentHealth": 400,
-                "totalExperience": 100,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Ground",
-                "moves": [
-                    {
-                        "name": "Mud Slap",
-                        "attack": 50,
-                        "level": "medium",
-                        "gauge": 0,
-                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
-                        "type": "Ground"
+                        "animation": "https://images.vexels.com/media/users/3/155299/isolated/preview/1988d1faba4d059eb4461d955af5cf61-x-mark-scribble-by-vexels.png",
+                        "type": "Fighting"
                     }
-                    ,
-                    {
-                    "name": "Thunderbolt",
-                    "attack": 90,
-                    "level": "medium",
-                    "gauge": 0,
-                    "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
-                    "type": "Electric"
-                    },
-                    {
-                     "name": "Earth Quake",
-                     "attack": 120,
-                     "level": "special",
-                     "gauge": 0,
-                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
-                     "type": "Ground"
-                        }
                   ]
                 }
             ]
