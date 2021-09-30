@@ -1347,152 +1347,189 @@
             
             
             "name":"Lance",
-            "introMessage":"So! I must say, I am impressed you got here!",
-            "winningMessage":"Ha! That was a truly intense fight! You have won! ",
-            "losingMessage":"My pokemons are far stronger!",
-            "image":"https://static.wikia.nocookie.net/pokemon/images/b/b2/Giovanni_Masters.png/revision/latest?cb=20191128040428",
+            "introMessage":"I’ve been waiting for you! I knew that you, with your skills, would eventually reach me here. There's no need for words now. We will battle to determine who is the stronger of the two of us. As the most powerful trainer and as the Pokémon League Champion… I, Lance the dragon master, accept your challenge!",
+            "winningMessage":"…It's over. But it's an odd feeling. I’m not angry that I lost. In fact, I feel happy. Happy that I witnessed the rise of a great new Champion!",
+            "losingMessage":"My dragons are too much for you!",
+            "image":"https://www.serebii.net/pokemonmasters/syncpairs/lance.png",
             "pokemon": [
                 {
-                "pokemonId": 111,
-                "level": 39,
-                "name": "Rhyhorn",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/111.gif",
-                "health": 375,
-                "currentHealth": 375,
-                "totalExperience": 100,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Ground",
-                "moves": [
-                    {
-                        "name": "Tackle",
-                        "attack": 45,
-                        "level": "weak",
-                        "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
-                    },
-                    {
-                        "name": "Mud Slap",
-                        "attack": 75,
-                        "level": "medium",
-                        "gauge": 0,
-                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
-                        "type": "Ground"
-                    }
-                  ]
-                },
-                {
-                "pokemonId": 34,
-                "level": 40,
-                "name": "Nidoking",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/34.gif",
-                "health": 390,
-                "currentHealth": 390,
-                "totalExperience": 100,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Poison",
-                "moves": [
-                    {
-                        "name": "Tackle",
+                    "pokemonId": 130,
+                    "level": 45,
+                    "name": "Gyarados",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/130.gif",
+                    "health": 450,
+                    "currentHealth": 450,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": true,
+                    "type": "Water",
+                    "moves": [{
+                      "name": "Take Down",
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
-                    },
-                    {
-                        "name": "Poison Sting",
-                        "attack": 75,
+                        "animation":
+                          "https://cdna.artstation.com/p/assets/images/images/015/934/194/original/joshua-gates-quick-explosion.gif?1550235110",
+                        "type": "Normal"},
+                        {
+                        "name": "Surf",
+                        "attack": 90,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://i.gifer.com/OupZ.gif",
-                        "type": "Poison"
-                    },
-                     {
-                        "name": "Earth Quake",
-                        "attack": 120,
+                        "animation": "https://webstockreview.net/images/clipart-mountain-ocean-1.gif",
+                        "type": "Water"
+                        },
+                        {
+                        "name": "Hyper Beam",
+                        "attack": 150,
                         "level": "special",
                         "gauge": 0,
-                        "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
-                        "type": "Ground"
+                        "animation": "https://media2.giphy.com/media/dphDDCpGfzJPq/source.gif",
+                        "type": "Normal"
                         }
-                  ]
-                },
+                   ]
+                  },
                 {
-                "pokemonId": 31,
-                "level": 41,
-                "name": "Nidoqueen",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/31.gif",
-                "health": 390,
-                "currentHealth": 390,
-                "totalExperience": 100,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Ground",
-                "moves": [
-                    {
-                    "name": "Poison Sting",
-                    "attack": 50,
-                    "level": "weak",
-                    "gauge": 100,
-                    "animation": "https://i.gifer.com/OupZ.gif",
-                    "type": "Poison"
-                    },
-                    {
-                     "name": "Earth Quake",
-                     "attack": 120,
-                     "level": "special",
-                     "gauge": 0,
-                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
-                     "type": "Ground"
-                        }
-                  ]
-                },
-                {
-                "pokemonId": 112,
-                "level": 43,
-                "name": "Rhydon",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/112.gif",
-                "health": 400,
-                "currentHealth": 400,
-                "totalExperience": 100,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Ground",
-                "moves": [
-                    {
-                        "name": "Mud Slap",
+                    "pokemonId": 148,
+                    "level": 45,
+                    "name": "Dragonair",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/148.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/148.gif",
+                    "health": 430,
+                    "currentHealth": 430,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": false,
+                    "type": "Dragon",
+                    "moves": [
+                        {
+                        "name": "Dragon Rage",
                         "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://pa1.narvii.com/6881/3e2030d2b7d2ffe47e7fd0fa6fea2b7ce27f43fdr1-350-500_hq.gif",
+                        "type": "Dragon"
+                        },
+                        {
+                        "name": "Dragon Rush",
+                        "attack": 90,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
-                        "type": "Ground"
-                    }
-                    ,
-                    {
-                    "name": "Thunderbolt",
-                    "attack": 90,
-                    "level": "medium",
-                    "gauge": 0,
-                    "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
-                    "type": "Electric"
-                    },
-                    {
-                     "name": "Earth Quake",
-                     "attack": 120,
-                     "level": "special",
-                     "gauge": 0,
-                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
-                     "type": "Ground"
+                        "animation": "https://cdn2.scratch.mit.edu/get_image/gallery/26355653_170x100.png",
+                        "type": "Dragon"
                         }
-                  ]
-                }
+                   ]
+                 },
+                {
+                    "pokemonId": 148,
+                    "level": 45,
+                    "name": "Dragonair",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/148.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/148.gif",
+                    "health": 430,
+                    "currentHealth": 430,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": false,
+                    "type": "Dragon",
+                    "moves": [
+                        {
+                        "name": "Dragon Rage",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://pa1.narvii.com/6881/3e2030d2b7d2ffe47e7fd0fa6fea2b7ce27f43fdr1-350-500_hq.gif",
+                        "type": "Dragon"
+                        },
+                        {
+                        "name": "Dragon Rush",
+                        "attack": 90,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn2.scratch.mit.edu/get_image/gallery/26355653_170x100.png",
+                        "type": "Dragon"
+                        }
+                   ]
+                 }
+                ,
+                {
+                    "pokemonId": 142,
+                    "level": 46,
+                    "name": "Aerodactyl",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/142.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/142.gif",
+                    "health": 450,
+                    "currentHealth": 450,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": true,
+                    "type": "Rock",
+                    "moves": [{
+                      "name": "Rock Throw",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation":
+                          "https://cdna.artstation.com/p/assets/images/images/015/934/194/original/joshua-gates-quick-explosion.gif?1550235110",
+                        "type": "Rock"},
+                        {
+                      "name": "Wing attack",
+                        "attack": 60,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation":
+                          "https://i.gifer.com/Yrhh.gif",
+                        "type": "Flying"},
+                        {
+                      "name": "Stone Edge",
+                        "attack": 100,
+                        "level": "Special",
+                        "gauge": 0,
+                        "animation":
+                          "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
+                        "type": "Rock"}
+                      ]
+                  }
+                ,
+                {
+                    "pokemonId": 149,
+                    "level": 49,
+                    "name": "Dragonite",
+                    "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif",
+                    "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/149.gif",
+                    "health": 470,
+                    "currentHealth": 470,
+                    "totalExperience": 100,
+                    "currentExperience": 0,
+                    "fullyEvolved": true,
+                    "type": "Dragon",
+                    "moves": [
+                        {
+                        "name": "Dragon Rage",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 0,
+                        "animation": "https://pa1.narvii.com/6881/3e2030d2b7d2ffe47e7fd0fa6fea2b7ce27f43fdr1-350-500_hq.gif",
+                        "type": "Dragon"
+                        },
+                        {
+                        "name": "Dragon Rush",
+                        "attack": 99,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation": "https://cdn2.scratch.mit.edu/get_image/gallery/26355653_170x100.png",
+                        "type": "Dragon"
+                        },{
+                        "name": "Hyper Beam",
+                        "attack": 150,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://static.wikia.nocookie.net/tibia/images/7/78/Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150130131805&path-prefix=en",
+                        "type": "Normal"
+                        }
+                   ]
+                  }
             ]
             
             
