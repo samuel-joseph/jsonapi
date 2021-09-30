@@ -1157,150 +1157,175 @@
             
             
             "name":"Agatha",
-            "introMessage":"So! I must say, I am impressed you got here!",
-            "winningMessage":"Ha! That was a truly intense fight! You have won! ",
-            "losingMessage":"My pokemons are far stronger!",
-            "image":"https://static.wikia.nocookie.net/pokemon/images/b/b2/Giovanni_Masters.png/revision/latest?cb=20191128040428",
+            "introMessage":"So you've come! It's not in my character to lose over and over. Give this battle everything you've got!"",
+            "winningMessage":"You win! I see what the old duff sees in you now. I have nothing else to say. Run along now, child!",
+            "losingMessage":"Come again boy!",
+            "image":"https://cdn2.bulbagarden.net/upload/5/5c/Lets_Go_Pikachu_Eevee_Agatha.png",
             "pokemon": [
                 {
-                "pokemonId": 111,
-                "level": 39,
-                "name": "Rhyhorn",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/111.gif",
-                "health": 375,
-                "currentHealth": 375,
+                "pokemonId": 94,
+                "level": 43,
+                "name": "Gengar",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/94.gif",
+                "health": 410,
+                "currentHealth": 410,
                 "totalExperience": 100,
                 "currentExperience": 0,
                 "fullyEvolved": false,
-                "type": "Ground",
+                "type": "Ghost",
                 "moves": [
                     {
-                        "name": "Tackle",
-                        "attack": 45,
+                        "name": "Shadow Ball",
+                        "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
+                        "animation": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/96269ce8-4a07-4702-936a-6860e1b5594f/dc62zhb-097d58db-0e51-4e7e-b3b4-8cee199d08a4.png/v1/fit/w_150,h_150,strp/shadow_ball__redesign__by_venjix5_dc62zhb-150.png",
+                        "type": "Ghost"
                     },
                     {
-                        "name": "Mud Slap",
-                        "attack": 75,
+                        "name": "Night Shade",
+                        "attack": 90,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
-                        "type": "Ground"
+                        "animation": "https://thumbs.gfycat.com/SickEnchantingAdamsstaghornedbeetle-small.gif",
+                        "type": "Ghost"
                     }
                   ]
                 },
                 {
-                "pokemonId": 34,
-                "level": 40,
-                "name": "Nidoking",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/34.gif",
-                "health": 390,
-                "currentHealth": 390,
+                "pokemonId": 42,
+                "level": 42,
+                "name": "Golbat",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/42.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/42.gif",
+                "health": 410,
+                "currentHealth": 410,
                 "totalExperience": 100,
                 "currentExperience": 0,
                 "fullyEvolved": false,
                 "type": "Poison",
                 "moves": [
                     {
-                        "name": "Tackle",
+                        "name": "Wing Attack",
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/transparent-laser-animated-16.gif",
-                        "type": "Normal"
+                        "animation": "https://i.gifer.com/Yrhh.gif",
+                        "type": "Flying"
                     },
                     {
                         "name": "Poison Sting",
-                        "attack": 75,
+                        "attack": 90,
                         "level": "medium",
                         "gauge": 0,
                         "animation": "https://i.gifer.com/OupZ.gif",
                         "type": "Poison"
-                    },
-                     {
-                        "name": "Earth Quake",
-                        "attack": 120,
-                        "level": "special",
-                        "gauge": 0,
-                        "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
-                        "type": "Ground"
-                        }
+                    }
                   ]
                 },
                 {
-                "pokemonId": 31,
-                "level": 41,
-                "name": "Nidoqueen",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/31.gif",
-                "health": 390,
-                "currentHealth": 390,
-                "totalExperience": 100,
-                "currentExperience": 0,
-                "fullyEvolved": false,
-                "type": "Ground",
-                "moves": [
-                    {
-                    "name": "Poison Sting",
-                    "attack": 50,
-                    "level": "weak",
-                    "gauge": 100,
-                    "animation": "https://i.gifer.com/OupZ.gif",
-                    "type": "Poison"
-                    },
-                    {
-                     "name": "Earth Quake",
-                     "attack": 120,
-                     "level": "special",
-                     "gauge": 0,
-                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
-                     "type": "Ground"
-                        }
-                  ]
-                },
-                {
-                "pokemonId": 112,
-                "level": 43,
-                "name": "Rhydon",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/112.gif",
+                "pokemonId": 93,
+                "level": 45,
+                "name": "Haunter",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/93.gif",
                 "health": 400,
                 "currentHealth": 400,
                 "totalExperience": 100,
                 "currentExperience": 0,
                 "fullyEvolved": false,
-                "type": "Ground",
+                "type": "Ghost",
                 "moves": [
                     {
-                        "name": "Mud Slap",
+                        "name": "Shadow Ball",
                         "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/96269ce8-4a07-4702-936a-6860e1b5594f/dc62zhb-097d58db-0e51-4e7e-b3b4-8cee199d08a4.png/v1/fit/w_150,h_150,strp/shadow_ball__redesign__by_venjix5_dc62zhb-150.png",
+                        "type": "Ghost"
+                    },
+                    {
+                        "name": "Night Shade",
+                        "attack": 90,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
-                        "type": "Ground"
+                        "animation": "https://thumbs.gfycat.com/SickEnchantingAdamsstaghornedbeetle-small.gif",
+                        "type": "Ghost"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 24,
+                "level": 43,
+                "name": "Arbok",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/24.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/24.gif",
+                "health": 430,
+                "currentHealth": 430,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Poison",
+                "moves": [
+                    {
+                        "name": "Toxic",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "type": "Poison"
                     }
                     ,
                     {
-                    "name": "Thunderbolt",
+                    "name": "Sludge Bomb",
                     "attack": 90,
                     "level": "medium",
                     "gauge": 0,
-                    "animation": "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
-                    "type": "Electric"
+                    "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
+                    "type": "Poison"
+                    }
+                  ]
+                },
+                {
+                "pokemonId": 94,
+                "level": 43,
+                "name": "Gengar",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/94.gif",
+                "health": 410,
+                "currentHealth": 410,
+                "totalExperience": 100,
+                "currentExperience": 0,
+                "fullyEvolved": false,
+                "type": "Ghost",
+                "moves": [
+                    {
+                        "name": "Shadow Ball",
+                        "attack": 50,
+                        "level": "weak",
+                        "gauge": 100,
+                        "animation": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/96269ce8-4a07-4702-936a-6860e1b5594f/dc62zhb-097d58db-0e51-4e7e-b3b4-8cee199d08a4.png/v1/fit/w_150,h_150,strp/shadow_ball__redesign__by_venjix5_dc62zhb-150.png",
+                        "type": "Ghost"
                     },
                     {
-                     "name": "Earth Quake",
-                     "attack": 120,
-                     "level": "special",
-                     "gauge": 0,
-                     "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
-                     "type": "Ground"
-                        }
+                        "name": "Thunder Bolt",
+                        "attack": 65,
+                        "level": "medium",
+                        "gauge": 0,
+                        "animation":
+                        "https://media3.giphy.com/media/ebQMQkzmJNT7G/source.gif",
+                        "type": "Electric"
+                    }
+                    ,
+                    {
+                        "name": "Night Shade",
+                        "attack": 120,
+                        "level": "special",
+                        "gauge": 0,
+                        "animation": "https://thumbs.gfycat.com/SickEnchantingAdamsstaghornedbeetle-small.gif",
+                        "type": "Ghost"
+                    }
                   ]
                 }
             ]
