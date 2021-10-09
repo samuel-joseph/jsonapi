@@ -252,7 +252,7 @@
             "introMessage":"You like planting?",
             "winningMessage":"Congrats!",
             "losingMessage":"Oops!",
-            "image":"https://www.pngitem.com/pimgs/m/258-2580275_pokemon-lets-go-erika-hd-png-download.png",
+            "image":"https://i.pinimg.com/736x/ab/ff/41/abff41eca201fba61a9889b1e047820f.jpg",
             "pokemon": [
                 {
                 "pokemonId": 71,
@@ -353,7 +353,7 @@
             "introMessage":"I'm a ninja and my pokemons are toxic!",
             "winningMessage":"Hmmmm!",
             "losingMessage":"Suck it Jian Yiang !",
-            "image":"https://static.wikia.nocookie.net/pokemon/images/a/a8/Koga_Masters.png/revision/latest?cb=20191020205639",
+            "image":"https://cdn2.bulbagarden.net/upload/f/f4/Lets_Go_Pikachu_Eevee_Koga.png",
             "pokemon": [
                 {
                 "pokemonId": 109,
@@ -548,7 +548,7 @@
             "introMessage":"I see the fire burning in your eyes!",
             "winningMessage":"Keep the fire burning!",
             "losingMessage":"You got BURNED!",
-            "image":"https://static.wikia.nocookie.net/pokemon/images/f/f5/Blaine_FireRed_and_LeafGreen.png/revision/latest?cb=20111016021924",
+            "image":"https://cdn2.bulbagarden.net/upload/c/c8/Lets_Go_Pikachu_Eevee_Blaine.png",
             "pokemon": [
                 {
                 "pokemonId": 126,
