@@ -5,7 +5,7 @@
             "introMessage":"My name is Brock and let's rock!",
             "winningMessage":"Well done kid!",
             "losingMessage":"You got rocked!",
-            "image":"",
+            "image":"https://upload.wikimedia.org/wikipedia/en/7/71/DP-Brock.png",
             "pokemon": [
                 {
                 "pokemonId": 74,
@@ -79,7 +79,7 @@
             "introMessage":"Ready for a swimming lesson?",
             "winningMessage":"You are better than I thought!",
             "losingMessage":"Better luck next time!",
-            "image":"https://static.wikia.nocookie.net/pokemonlp-utomaikeru/images/f/f6/Lets_Go_Pikachu_Eevee_Misty.png/revision/latest?cb=20180713004719",
+            "image":"https://cdn2.bulbagarden.net/upload/thumb/f/f6/Lets_Go_Pikachu_Eevee_Misty.png/183px-Lets_Go_Pikachu_Eevee_Misty.png",
             "pokemon": [
                 {
                 "pokemonId": 120,
