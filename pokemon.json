@@ -2371,12 +2371,13 @@
         "animation":
           "https://lh3.googleusercontent.com/proxy/3XgA7UOpm1X_N0n4RoliKdhqVtnxzVaHLNHe8ZzTam9TZSsOUqAn_hGhUS1ffmpTUyqx_4xo9AJGEAhgV-nFEhc",
         "type": "Normal"},{
-          "name": "Take Down",
-       "attack": 55,
+        "name": "Take Down",
+        "attack": 55,
         "level": "medium",
         "gauge": 0,
         "animation": "https://cdna.artstation.com/p/assets/images/images/015/934/194/original/joshua-gates-quick-explosion.gif?1550235110",
         "type": "Normal"
+          
         },{
           "name": "Take Down",
        "attack": 55,
