@@ -25,7 +25,7 @@
                         "attack": 35,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     },
                     {
@@ -99,7 +99,7 @@
                         "attack": 35,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     },
                     {
@@ -174,7 +174,7 @@
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     }
                   ]
@@ -197,7 +197,7 @@
                         "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     },
                     {
@@ -228,7 +228,7 @@
                         "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     },
                     {
@@ -272,7 +272,7 @@
                         "attack": 35,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     },
                     {
@@ -373,7 +373,7 @@
                         "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     }
                   ]
@@ -419,7 +419,7 @@
                         "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Poison"
                     },
                     {
@@ -568,7 +568,7 @@
                         "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     }
                   ]
@@ -591,7 +591,7 @@
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     },
                 {
@@ -668,7 +668,7 @@
                         "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     },
                     {
@@ -699,7 +699,7 @@
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"
                     },
                     {
@@ -825,7 +825,7 @@
                         "level": "weak",
                         "gauge": 100,
                         "animation":
-                          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                          "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"},{
                           "name": "Ice Beam",
                        "attack": 75,
@@ -951,7 +951,7 @@
                         "level": "weak",
                         "gauge": 100,
                         "animation":
-                          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                          "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"},{
                           "name": "Ice Beam",
                        "attack": 75,
@@ -1062,7 +1062,7 @@
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                        "animation": "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Fighting"
                     },
                     {
@@ -1597,7 +1597,7 @@
                         "level": "weak",
                         "gauge": 100,
                         "animation":
-                          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+                          "https://image.flaticon.com/icons/png/512/599/599506.png",
                         "type": "Normal"},
                               {
                           "name": "Take Down",
@@ -1788,7 +1788,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Vine Whip",
        "attack": 55,
@@ -1817,7 +1817,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Ember",
        "attack": 55,
@@ -1845,7 +1845,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Water Gun",
        "attack": 55,
@@ -1996,7 +1996,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"}
       ]
   },
@@ -2018,7 +2018,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Flying"}
       ]
   },{
@@ -2039,7 +2039,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Ember",
        "attack": 55,
@@ -2067,7 +2067,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Water Gun",
        "attack": 55,
@@ -2095,7 +2095,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Vine Whip",
        "attack": 55,
@@ -2127,7 +2127,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},
         {
       "name": "Thunder Bolt",
@@ -2165,7 +2165,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"}
       ]
   },{
@@ -2186,7 +2186,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Water Gun",
        "attack": 55,
@@ -2214,7 +2214,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Shadow Ball",
        "attack": 75,
@@ -2242,7 +2242,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Psywave",
        "attack": 60,
@@ -2270,7 +2270,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Rock Throw",
        "attack": 55,
@@ -2340,7 +2340,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},
         {
       "name": "Dragon Rage",
@@ -2369,7 +2369,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
         "name": "Take Down",
         "attack": 55,
@@ -2405,7 +2405,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Ice Beam",
        "attack": 75,
@@ -2440,7 +2440,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Thunder Bolt",
        "attack": 65,
@@ -2476,7 +2476,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Flame Thrower",
        "attack": 65,
@@ -2512,7 +2512,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Surf",
        "attack": 65,
@@ -2689,7 +2689,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Razor Leaf",
        "attack": 65,
@@ -2724,7 +2724,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Razor Leaf",
        "attack": 65,
@@ -2767,7 +2767,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},{
           "name": "Flame Thrower",
        "attack": 65,
@@ -2844,7 +2844,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},
         {
         "name": "Water Gun",
@@ -2927,7 +2927,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},
         {
         "name": "Take Down",
@@ -2958,7 +2958,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},
         {
         "name": "Wing Attack",
@@ -2990,7 +2990,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"},
         {
         "name": "Wing Attack",
@@ -3407,7 +3407,7 @@
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://static.vecteezy.com/system/resources/thumbnails/000/552/396/small/explosion.jpg",
+          "https://image.flaticon.com/icons/png/512/599/599506.png",
         "type": "Normal"
         },
         {
