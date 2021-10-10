@@ -2556,19 +2556,19 @@
        "attack": 90,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://static.wikia.nocookie.net/tibia/images/2/23/Ice_Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150131111012&path-prefix=en",
+        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
         "type": "Ice"
         },{
           "name": "Blizzard",
        "attack": 120,
-        "level": "Special",
+        "level": "special",
         "gauge": 0,
-        "animation": "https://static.wikia.nocookie.net/tibia/images/c/c5/Ice_Crystal_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20190508174849&path-prefix=en",
+        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
         "type": "Ice"
         },{
           "name": "Sky Attack",
        "attack": 100,
-        "level": "Special",
+        "level": "special",
         "gauge": 0,
         "animation": "https://i.gifer.com/origin/b0/b08ecc6d6bb0cf160bb9bbdd64a50bfd_w200.gif",
         "type": "Flying"
@@ -2604,14 +2604,14 @@
         },{
           "name": "Fire Blast",
        "attack": 120,
-        "level": "Special",
+        "level": "special",
         "gauge": 0,
         "animation": "https://i.ya-webdesign.com/images/transparent-explosions-animated-gif-4.gif",
         "type": "Fire"
         },{
           "name": "Sky Attack",
        "attack": 100,
-        "level": "Special",
+        "level": "special",
         "gauge": 0,
         "animation": "https://i.gifer.com/origin/b0/b08ecc6d6bb0cf160bb9bbdd64a50bfd_w200.gif",
         "type": "Flying"
@@ -2646,14 +2646,14 @@
         },{
           "name": "Thunder",
        "attack": 120,
-        "level": "Special",
+        "level": "special",
         "gauge": 0,
         "animation": "https://media1.giphy.com/media/xT0GqAolKYvpEV3tq8/200w.gif?cid=82a1493bgq5drcfqdm1rpb1jcsdods7n7m6g72qp01qdpjp1&rid=200w.gif&ct=s",
         "type": "Electric"
         },{
           "name": "Sky Attack",
        "attack": 100,
-        "level": "Special",
+        "level": "special",
         "gauge": 0,
         "animation": "https://i.gifer.com/origin/b0/b08ecc6d6bb0cf160bb9bbdd64a50bfd_w200.gif",
         "type": "Flying"
