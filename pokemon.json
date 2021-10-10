@@ -648,7 +648,7 @@
             "introMessage":"So! I must say, I am impressed you got here!",
             "winningMessage":"Ha! That was a truly intense fight! You have won! ",
             "losingMessage":"My pokemons are far stronger!",
-            "image":"https://static.wikia.nocookie.net/pokemon/images/b/b2/Giovanni_Masters.png/revision/latest?cb=20191128040428",
+            "image":"https://gamepress.gg/pokemonmasters/sites/pokemonmasters/files/2019-11/Giovanni.png",
             "pokemon": [
                 {
                 "pokemonId": 111,
