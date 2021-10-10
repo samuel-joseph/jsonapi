@@ -3036,7 +3036,7 @@
         "attack": 75,
         "level": "medium",
         "gauge": 0,
-        "animation": "hhttps://i.gifer.com/3q62.gif",
+        "animation": "https://i.gifer.com/3q62.gif",
         "type": "Fire"
         }
    ]
@@ -3109,7 +3109,7 @@
         "attack": 100,
         "level": "special",
         "gauge": 0,
-        "animation": "ttps://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
         "type": "Ice"
         }
    ]
@@ -3220,7 +3220,7 @@
         "attack": 150,
         "level": "special",
         "gauge": 0,
-        "animation": "https://media2.giphy.com/media/dphDDCpGfzJPq/source.gif",
+        "animation": "http://4.bp.blogspot.com/-aplXFI9fzIs/U-O901KtK4I/AAAAAAAAAgI/8jf7Zeo0ouA/s1600/explosion_time_animate.gif",
         "type": "Normal"
         }
    ]
@@ -3383,7 +3383,7 @@
         "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://cdn.clipart.email/2bb6cad1e3152775c39760e8f4999e64_explosion-animated-gif-clipart-best-transparent-explosion-gif-lowgif_2000-2000.gif",
+        "animation": "https://i.gifer.com/origin/d7/d7ac4f38b77abe73165d85edf2cbdb9e_w200.gif",
         "type": "Ground"
         }
    ]
@@ -3470,7 +3470,7 @@
         "attack": 150,
         "level": "special",
         "gauge": 0,
-        "animation": "https://static.wikia.nocookie.net/tibia/images/7/78/Explosion_Effect.gif/revision/latest/top-crop/width/360/height/360?cb=20150130131805&path-prefix=en",
+        "animation": "http://4.bp.blogspot.com/-aplXFI9fzIs/U-O901KtK4I/AAAAAAAAAgI/8jf7Zeo0ouA/s1600/explosion_time_animate.gif",
         "type": "Normal"
         }
    ]
