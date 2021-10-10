@@ -1039,7 +1039,7 @@
                         "attack": 99,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://mpng.subpng.com/20180204/wpq/kisspng-display-resolution-clip-art-punch-png-free-download-5a7741ef729c96.3119666215177651034695.jpg",
+                        "animation": "https://static.vecteezy.com/system/resources/previews/001/199/586/non_2x/fist-comic-png.png",
                         "type": "Fighting"
                     }
                   ]
@@ -1058,7 +1058,7 @@
                 "type": "Fighting",
                 "moves": [
                     {
-                        "name": "Comet Punch",
+                        "name": "Double Kick",
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
@@ -1070,7 +1070,7 @@
                      "attack": 99,
                      "level": "medium",
                      "gauge": 0,
-                     "animation": "https://lh3.googleusercontent.com/proxy/uuBy7SVhG62v0kT9ktOJYmnmxnF_nn-S6lUeibAIfeAQeF_jLfunCoRuPvN5SkMpgFv-8UeE3QHTHoZj2RKhVwv1",
+                     "animation": "https://lh3.googleusercontent.com/proxy/Lca7ny3cdudfnxV1VE4Mwax7YSDgI8NlmuDq2GoVKsOAXpxvqNlwe5oh3GpinOwlBQ6A65E7IFLGbZvVZb2GDPuR",
                      "type": "Fighting"
                         }
                   ]
