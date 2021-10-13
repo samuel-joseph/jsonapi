@@ -2001,8 +2001,8 @@
       ]
   },
   {
-    "pokemonId": 1,
-    "level":16,
+    "pokemonId": 16,
+    "level":1,
     "name": "Pidgey",
     "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif",
     "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/2.gif",
