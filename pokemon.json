@@ -767,7 +767,7 @@
                     {
                         "name": "Mud Slap",
                         "attack": 50,
-                        "level": "medium",
+                        "level": "weak",
                         "gauge": 0,
                         "animation": "https://www.pnglib.com/wp-content/uploads/2020/01/sand_5e18cd238e377.png",
                         "type": "Ground"
