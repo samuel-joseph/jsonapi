@@ -323,7 +323,7 @@
                 "moves": [
                     {
                         "name": "Vine Whip",
-                        "attack": 45,
+                        "attack": 50,
                         "level": "weak",
                         "gauge": 100,
                         "animation": "https://i.imgur.com/uDJiGRk.gif",
@@ -334,7 +334,7 @@
                         "attack": 100,
                         "level": "special",
                         "gauge": 0,
-                        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
+                        "animation": "https://media0.giphy.com/media/AEHWYyOBSmYRDl7kDc/giphy.gif",
                         "type": "Poison"
                     }
                   ]
@@ -405,8 +405,8 @@
                 "pokemonId": 33,
                 "level": 34,
                 "name": "Weezing",
-                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/33.gif",
-                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/33.gif",
+                "frontImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/110.gif",
+                "backImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/110.gif",
                 "health": 375,
                 "currentHealth": 375,
                 "totalExperience": 100,
@@ -415,11 +415,11 @@
                 "type": "Poison",
                 "moves": [
                     {
-                        "name": "Tackle",
+                        "name": "Poison Sting",
                         "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://cdnb.artstation.com/p/assets/images/images/028/802/877/original/adrian-arellano-villa-attack-impact.gif?1595547012",
+                        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
                         "type": "Poison"
                     },
                     {
@@ -427,7 +427,7 @@
                         "attack": 100,
                         "level": "special",
                         "gauge": 0,
-                        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
+                        "animation": "https://media0.giphy.com/media/AEHWYyOBSmYRDl7kDc/giphy.gif",
                         "type": "Poison"
                     }
                   ]
@@ -707,7 +707,7 @@
                         "attack": 75,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "animation": "https://media0.giphy.com/media/AEHWYyOBSmYRDl7kDc/giphy.gif",
                         "type": "Poison"
                     },
                      {
@@ -738,7 +738,7 @@
                     "attack": 50,
                     "level": "weak",
                     "gauge": 100,
-                    "animation": "https://i.gifer.com/OupZ.gif",
+                    "animation": "https://media0.giphy.com/media/AEHWYyOBSmYRDl7kDc/giphy.gif",
                     "type": "Poison"
                     },
                     {
@@ -831,7 +831,7 @@
                        "attack": 75,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+                        "animation": "https://static.wikia.nocookie.net/62a38c55-7829-46d3-9991-1b6352195339/scale-to-width/755",
                         "type": "Ice"
                         }
                       ]
@@ -898,7 +898,7 @@
                         "attack": 100,
                         "level": "special",
                         "gauge": 0,
-                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "animation": "https://media0.giphy.com/media/AEHWYyOBSmYRDl7kDc/giphy.gif",
                         "type": "Psychic"
                         }
                       ]
@@ -921,13 +921,13 @@
                         "level": "weak",
                         "gauge": 100,
                         "animation":
-                          "https://i.gifer.com/OupZ.gif",
+                          "https://media0.giphy.com/media/AEHWYyOBSmYRDl7kDc/giphy.gif",
                         "type": "Psychic"},{
                           "name": "Ice Beam",
                        "attack": 90,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://i.ya-webdesign.com/images/anime-effects-png-11.png",
+                        "animation": "https://static.wikia.nocookie.net/62a38c55-7829-46d3-9991-1b6352195339/scale-to-width/755",
                         "type": "Ice"
                         }
                       ]
@@ -957,14 +957,14 @@
                        "attack": 75,
                         "level": "special",
                         "gauge": 0,
-                        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+                        "animation": "https://static.wikia.nocookie.net/62a38c55-7829-46d3-9991-1b6352195339/scale-to-width/755",
                         "type": "Ice"
                         },{
                           "name": "Blizzard",
                        "attack": 120,
                         "level": "special",
                         "gauge": 0,
-                        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+                        "animation": "https://media2.giphy.com/media/uiC2aVVRnSO7uUgOqD/200w.gif",
                         "type": "Ice"
                         }
                       ]
@@ -1031,7 +1031,7 @@
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.pinimg.com/236x/e4/9c/e5/e49ce582529f4dfc08b531b4b1187e7a.jpg",
+                        "animation": "https://lh3.googleusercontent.com/proxy/Ib0jUFuNKiSLQxlUZxAW_V8m7EJepJCKim9I8Z75v6MHIUEOx5GQqH56SDGv0OupNw50adUt6yeZcqoFI71XV3lVYzMVBy7m",
                         "type": "Fighting"
                     },
                     {
@@ -1070,7 +1070,7 @@
                      "attack": 99,
                      "level": "medium",
                      "gauge": 0,
-                     "animation": "https://lh3.googleusercontent.com/proxy/Lca7ny3cdudfnxV1VE4Mwax7YSDgI8NlmuDq2GoVKsOAXpxvqNlwe5oh3GpinOwlBQ6A65E7IFLGbZvVZb2GDPuR",
+                     "animation": "https://www.pinclipart.com/picdir/big/52-520242_cartoon-chicken-tracks-clipart-turkey-track-drive-png.png",
                      "type": "Fighting"
                         }
                   ]
@@ -1093,7 +1093,7 @@
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
+                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
                         "type": "Rock"
                     },
                     {
@@ -1101,7 +1101,7 @@
                         "attack": 90,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
+                        "animation": "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
                         "type": "Rock"
                     }
                   ]
@@ -1124,7 +1124,7 @@
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.pinimg.com/236x/e4/9c/e5/e49ce582529f4dfc08b531b4b1187e7a.jpg",
+                        "animation": "https://lh3.googleusercontent.com/proxy/Ib0jUFuNKiSLQxlUZxAW_V8m7EJepJCKim9I8Z75v6MHIUEOx5GQqH56SDGv0OupNw50adUt6yeZcqoFI71XV3lVYzMVBy7m",
                         "type": "Fighting"
                     },
                     {
@@ -1132,7 +1132,7 @@
                         "attack": 90,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
+                        "animation": "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
                         "type": "Rock"
                     },
                     {
@@ -1214,7 +1214,7 @@
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.gifer.com/Yrhh.gif",
+                        "animation": "https://thumbs.gfycat.com/FastWindyCivet-max-1mb.gif",
                         "type": "Flying"
                     },
                     {
@@ -1222,7 +1222,7 @@
                         "attack": 90,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "animation": "https://media0.giphy.com/media/AEHWYyOBSmYRDl7kDc/giphy.gif",
                         "type": "Poison"
                     }
                   ]
@@ -1279,7 +1279,7 @@
                         "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.gifer.com/OupZ.gif",
+                        "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
                         "type": "Poison"
                     }
                     ,
@@ -1288,7 +1288,7 @@
                     "attack": 90,
                     "level": "medium",
                     "gauge": 0,
-                    "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
+                    "animation": "https://media0.giphy.com/media/AEHWYyOBSmYRDl7kDc/giphy.gif",
                     "type": "Poison"
                     }
                   ]
@@ -1316,7 +1316,7 @@
                     },
                     {
                         "name": "Thunder Bolt",
-                        "attack": 65,
+                        "attack": 75,
                         "level": "medium",
                         "gauge": 0,
                         "animation":
@@ -1479,7 +1479,7 @@
                         "level": "medium",
                         "gauge": 0,
                         "animation":
-                          "https://i.gifer.com/Yrhh.gif",
+                          "https://thumbs.gfycat.com/FastWindyCivet-max-1mb.gif",
                         "type": "Flying"},
                         {
                       "name": "Stone Edge",
@@ -1668,7 +1668,7 @@
                           "attack": 90,
                           "level": "medium",
                           "gauge": 0,
-                          "animation": "https://cdna.artstation.com/p/assets/images/images/012/621/042/original/bogdan-krupa-gase-ball.gif?1535675697",
+                          "animation": "https://media0.giphy.com/media/AEHWYyOBSmYRDl7kDc/giphy.gif",
                           "type": "Poison"
                         },
                         {
@@ -1716,7 +1716,7 @@
                             "attack": 120,
                             "level": "special",
                             "gauge": 0,
-                            "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+                            "animation": "https://media2.giphy.com/media/uiC2aVVRnSO7uUgOqD/200w.gif",
                             "type": "Water"
                             }
                        ]
@@ -2310,7 +2310,7 @@
         "level": "medium",
         "gauge": 0,
         "animation":
-          "https://i.gifer.com/Yrhh.gif",
+          "https://thumbs.gfycat.com/FastWindyCivet-max-1mb.gif",
         "type": "Flying"},
         {
       "name": "Stone Edge",
@@ -2411,14 +2411,14 @@
        "attack": 75,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "animation": "https://static.wikia.nocookie.net/62a38c55-7829-46d3-9991-1b6352195339/scale-to-width/755",
         "type": "Ice"
         },{
           "name": "Blizzard",
        "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "animation": "https://media2.giphy.com/media/uiC2aVVRnSO7uUgOqD/200w.gif",
         "type": "Ice"
         }
       ]
@@ -2525,7 +2525,7 @@
        "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "animation": "https://media2.giphy.com/media/uiC2aVVRnSO7uUgOqD/200w.gif",
         "type": "Water"
         }
    ]
@@ -2557,14 +2557,14 @@
        "attack": 90,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "animation": "https://static.wikia.nocookie.net/62a38c55-7829-46d3-9991-1b6352195339/scale-to-width/755",
         "type": "Ice"
         },{
           "name": "Blizzard",
        "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "animation": "https://media2.giphy.com/media/uiC2aVVRnSO7uUgOqD/200w.gif",
         "type": "Ice"
         },{
           "name": "Sky Attack",
@@ -2914,7 +2914,7 @@
         "attack": 120,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2018/10/aura-gif-transparent-6.gif",
+        "animation": "https://media2.giphy.com/media/uiC2aVVRnSO7uUgOqD/200w.gif",
         "type": "Water"
         }
    ]
@@ -3008,7 +3008,7 @@
         "attack": 65,
         "level": "medium",
         "gauge": 0,
-        "animation": "https://i.gifer.com/Yrhh.gif",
+        "animation": "https://thumbs.gfycat.com/FastWindyCivet-max-1mb.gif",
         "type": "Flying"
         },
         {
@@ -3120,7 +3120,7 @@
         "attack": 100,
         "level": "special",
         "gauge": 0,
-        "animation": "https://gifimage.net/wp-content/uploads/2017/11/fiocchi-di-neve-gif.gif",
+        "animation": "https://static.wikia.nocookie.net/62a38c55-7829-46d3-9991-1b6352195339/scale-to-width/755",
         "type": "Ice"
         }
    ]
