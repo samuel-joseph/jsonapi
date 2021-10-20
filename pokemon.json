@@ -564,12 +564,12 @@
                 "type": "Fire",
                 "moves": [
                     {
-                        "name": "Tackle",
-                        "attack": 45,
+                        "name": "Ember",
+                        "attack": 50,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://cdnb.artstation.com/p/assets/images/images/028/802/877/original/adrian-arellano-villa-attack-impact.gif?1595547012",
-                        "type": "Normal"
+                        "animation": "https://i.pinimg.com/originals/29/ca/76/29ca767e0d917e541cd18eb97f4825dc.gif",
+                        "type": "Fire"
                     }
                   ]
                 },
@@ -622,8 +622,8 @@
                     "attack": 50,
                     "level": "weak",
                     "gauge": 100,
-                    "animation": "https://thumbs.gfycat.com/SickEnchantingAdamsstaghornedbeetle-small.gif",
-                    "type": "Ghost"
+                    "animation": "https://i.pinimg.com/originals/29/ca/76/29ca767e0d917e541cd18eb97f4825dc.gif",
+                    "type": "Fire"
                     },
                     {
                     "name": "Flame Thrower",
@@ -2685,7 +2685,7 @@
     "type": "Grass",
     "moves": [{
       "name": "Tackle",
-        "attack": 35,
+        "attack": 50,
         "level": "weak",
         "gauge": 100,
         "animation":
@@ -2720,14 +2720,14 @@
     "type": "Grass",
     "moves": [{
       "name": "Tackle",
-        "attack": 35,
+        "attack": 50,
         "level": "weak",
         "gauge": 100,
         "animation":
           "https://cdnb.artstation.com/p/assets/images/images/028/802/877/original/adrian-arellano-villa-attack-impact.gif?1595547012",
         "type": "Normal"},{
           "name": "Razor Leaf",
-       "attack": 65,
+       "attack": 90,
         "level": "medium",
         "gauge": 0,
         "animation": "https://thumbs.gfycat.com/PlumpKnobbyArmednylonshrimp-size_restricted.gif",
@@ -2762,15 +2762,26 @@
     "fullyEvolved": false,
     "type": "Fire",
     "moves": [{
-      "name": "Tackle",
-        "attack": 35,
+      "name": "Slash",
+        "attack": 50,
         "level": "weak",
         "gauge": 100,
         "animation":
-          "https://cdnb.artstation.com/p/assets/images/images/028/802/877/original/adrian-arellano-villa-attack-impact.gif?1595547012",
-        "type": "Normal"},{
-          "name": "Flame Thrower",
-       "attack": 65,
+          "https://i.ya-webdesign.com/images/slash-effect-png-9.png",
+        "type": "Normal"
+      },
+      {
+        "name": "Thunder Punch",
+          "attack": 75,
+          "level": "medium",
+          "gauge": 100,
+          "animation":
+            "https://image.flaticon.com/icons/png/512/599/599506.png",
+          "type": "Electric"
+        }
+        ,{
+        "name": "Flame Thrower",
+        "attack": 65,
         "level": "medium",
         "gauge": 0,
         "animation": "https://cutewallpaper.org/21/fire-gif-transparent-background/Fireball-gif-transparent-clipart-images-gallery-for-free-.gif",
@@ -2801,7 +2812,7 @@
         },
         {
         "name": "Flame Thrower",
-        "attack": 65,
+        "attack": 75,
         "level": "medium",
         "gauge": 0,
         "animation": "https://cutewallpaper.org/21/fire-gif-transparent-background/Fireball-gif-transparent-clipart-images-gallery-for-free-.gif",
@@ -2840,7 +2851,7 @@
     "type": "Water",
     "moves": [{
       "name": "Tackle",
-        "attack": 35,
+        "attack": 50,
         "level": "weak",
         "gauge": 100,
         "animation":
@@ -2856,7 +2867,7 @@
         },{
         "name": "Ice Punch",
         "attack": 75,
-        "level": "Ice",
+        "level": "medium",
         "gauge": 0,
         "animation": "https://i.ya-webdesign.com/images/anime-effects-png-11.png",
         "type": "Ice"
@@ -2885,14 +2896,14 @@
         },
         {
         "name": "Water Gun",
-        "attack": 65,
+        "attack": 75,
         "level": "medium",
         "gauge": 0,
         "animation": "https://thumbs.gfycat.com/InformalWellwornCockroach-small.gif",
         "type": "Water"
         },{
         "name": "Ice Punch",
-        "attack": 75,
+        "attack": 90,
         "level": "Ice",
         "gauge": 0,
         "animation": "https://i.ya-webdesign.com/images/anime-effects-png-11.png",
