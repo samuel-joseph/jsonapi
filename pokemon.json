@@ -33,7 +33,7 @@
                         "attack": 75,
                         "level": "medium",
                         "gauge": 0,
-                        "animation": "https://cdn.clipart.email/6509a46f26db40f00ce876df17758083_free-png-mud-transparent-mudpng-images-pluspng_299-243.png",
+                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
                         "type": "Rock"
                     }
                   ]
@@ -56,7 +56,7 @@
                         "attack": 45,
                         "level": "weak",
                         "gauge": 100,
-                        "animation": "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
+                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
                         "type": "Rock"
                     },
                     {
@@ -64,7 +64,7 @@
                         "attack": 100,
                         "level": "special",
                         "gauge": 0,
-                        "animation": "https://cdn.forums.klei.com/monthly_2018_09/moonrock_shell_break.gif.b2946a1802cb8b7377c37a5aae398fa0.gif",
+                        "animation": "https://i.ya-webdesign.com/images/boulder-drawing-broken-rock-6.gif",
                         "type": "Rock"
                     }
                   ]
